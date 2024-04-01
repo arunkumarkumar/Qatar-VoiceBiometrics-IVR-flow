@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module category="" descriptorversion="1.0" entrypoint="QatarIVR_UAT/Start" forcesubdialogcall="false" frameworkversion="08.11.07.01" iconlarge="icons/defaultapplicationlg.gif" iconsmall="icons/defaultapplicationsm.gif" modifyInputs="false" modifyOutputs="false" nature="com.avaya.sce.core.speechnature" outputmultipart="false" paramasnamelist="false" provider="" submitmethod="get" version="1.0.0" webname="QatarIVR_UAT">
+    <description/>
+    <language name="english" root="en-us"/>
+    <dependencies/>
+</module>

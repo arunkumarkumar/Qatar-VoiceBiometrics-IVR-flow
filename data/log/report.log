@@ -1,0 +1,47 @@
+14/03/2024 08:59:35:109  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:Start | Framework | Start |  |  | 
+14/03/2024 08:59:35:336  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+14/03/2024 08:59:37:221  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:37:278  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicData | Framework | DynamicData |  |  | undefined
+14/03/2024 08:59:37:339  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+14/03/2024 08:59:37:404  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:37:458  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicData | Framework | DynamicData |  |  | undefined
+14/03/2024 08:59:37:511  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+14/03/2024 08:59:37:573  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:37:624  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicData | Framework | DynamicData |  |  | undefined
+14/03/2024 08:59:37:679  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+14/03/2024 08:59:37:738  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:37:791  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:PreAnnouncement | Framework | PreAnnouncement |  |  | undefined
+14/03/2024 08:59:37:851  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicAnnouncement | Framework | DynamicAnnouncement |  |  | undefined
+14/03/2024 08:59:40:974  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:PostAnnouncement | Framework | PostAnnouncement |  |  | undefined
+14/03/2024 08:59:41:027  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:41:078  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicData | Framework | DynamicData |  |  | undefined
+14/03/2024 08:59:41:130  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+14/03/2024 08:59:41:188  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:41:240  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:PreAnnouncement | Framework | PreAnnouncement |  |  | undefined
+14/03/2024 08:59:41:303  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicAnnouncement | Framework | DynamicAnnouncement |  |  | undefined
+14/03/2024 08:59:41:369  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:PostAnnouncement | Framework | PostAnnouncement |  |  | undefined
+14/03/2024 08:59:41:421  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:41:473  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicData | Framework | DynamicData |  |  | undefined
+14/03/2024 08:59:41:534  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+14/03/2024 08:59:41:597  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:41:663  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicData | Framework | DynamicData |  |  | undefined
+14/03/2024 08:59:41:725  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+14/03/2024 08:59:41:787  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:41:849  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicData | Framework | DynamicData |  |  | undefined
+14/03/2024 08:59:42:180  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+14/03/2024 08:59:42:242  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:42:305  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicData | Framework | DynamicData |  |  | undefined
+14/03/2024 08:59:42:367  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+14/03/2024 08:59:42:430  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:42:491  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicData | Framework | DynamicData |  |  | undefined
+14/03/2024 08:59:42:555  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+14/03/2024 08:59:42:619  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+14/03/2024 08:59:42:680  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:PreMenu | Framework | PreMenu |  |  | undefined
+14/03/2024 08:59:42:744  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:DynamicMenu | Framework | DynamicMenu |  |  | undefined
+14/03/2024 09:00:15:409  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:ConDisconnectHangup | Framework | ConDisconnectHangup |  |  | undefined
+14/03/2024 09:00:15:463  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+14/03/2024 09:00:15:515  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+14/03/2024 09:00:15:641  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:Disconnect | Framework | Disconnect |  |  | undefined
+14/03/2024 09:00:15:694  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+14/03/2024 09:00:15:751  INFO - Node Entry | session id:sess8557929 | QatarIVR_UAT_New:Exit | Framework | Exit |  | ^^0^0 | undefined
+14/03/2024 09:00:15:755  INFO - Application Exit | session id:sess8557929 | QatarIVR_UAT_New:Exit | Framework | Application Exiting |  |  | undefined

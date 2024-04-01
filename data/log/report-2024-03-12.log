@@ -1,0 +1,96 @@
+12/03/2024 13:35:10:634  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:Start | Framework | Start |  |  | 
+12/03/2024 13:35:10:724  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+12/03/2024 13:35:10:831  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+12/03/2024 13:35:10:893  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:SetTechDiffPrompt | Framework | SetTechDiffPrompt |  |  | undefined
+12/03/2024 13:35:10:956  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:TechnicalDifficulties | Framework | TechnicalDifficulties |  |  | undefined
+12/03/2024 13:35:11:034  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:SFDynamicTransfer | Framework | SFDynamicTransfer |  |  | undefined
+12/03/2024 13:35:11:095  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:Transfer-Begin | Framework | Transfer-Begin |  |  | undefined
+12/03/2024 13:35:11:157  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:Transfer-checkVbselfserve | Framework | Transfer-checkVbselfserve |  |  | undefined
+12/03/2024 13:35:11:220  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:Transfer-getTransferVDN | Framework | Transfer-getTransferVDN |  |  | undefined
+12/03/2024 13:35:11:283  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:Transfer-Error | Framework | Transfer-Error |  |  | undefined
+12/03/2024 13:35:11:345  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+12/03/2024 13:35:11:407  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+12/03/2024 13:35:11:470  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:Disconnect | Framework | Disconnect |  |  | undefined
+12/03/2024 13:35:11:532  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+12/03/2024 13:35:11:595  INFO - Node Entry | session id:sess1118228 | QatarIVR_UAT_New:Exit | Framework | Exit |  | ^^0^0 | undefined
+12/03/2024 13:35:11:596  INFO - Application Exit | session id:sess1118228 | QatarIVR_UAT_New:Exit | Framework | Application Exiting |  |  | undefined
+12/03/2024 13:35:57:336  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:Start | Framework | Start |  |  | 
+12/03/2024 13:35:57:425  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+12/03/2024 13:35:57:520  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+12/03/2024 13:35:57:583  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:SetTechDiffPrompt | Framework | SetTechDiffPrompt |  |  | undefined
+12/03/2024 13:35:57:643  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:TechnicalDifficulties | Framework | TechnicalDifficulties |  |  | undefined
+12/03/2024 13:35:57:705  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:SFDynamicTransfer | Framework | SFDynamicTransfer |  |  | undefined
+12/03/2024 13:35:57:768  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:Transfer-Begin | Framework | Transfer-Begin |  |  | undefined
+12/03/2024 13:35:57:829  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:Transfer-checkVbselfserve | Framework | Transfer-checkVbselfserve |  |  | undefined
+12/03/2024 13:35:57:893  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:Transfer-getTransferVDN | Framework | Transfer-getTransferVDN |  |  | undefined
+12/03/2024 13:35:57:955  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:Transfer-Error | Framework | Transfer-Error |  |  | undefined
+12/03/2024 13:35:58:017  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+12/03/2024 13:35:58:079  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+12/03/2024 13:35:58:141  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:Disconnect | Framework | Disconnect |  |  | undefined
+12/03/2024 13:35:58:204  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+12/03/2024 13:35:58:265  INFO - Node Entry | session id:sess9296101 | QatarIVR_UAT_New:Exit | Framework | Exit |  | ^^0^0 | undefined
+12/03/2024 13:35:58:266  INFO - Application Exit | session id:sess9296101 | QatarIVR_UAT_New:Exit | Framework | Application Exiting |  |  | undefined
+12/03/2024 13:36:13:537  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:Start | Framework | Start |  |  | 
+12/03/2024 13:36:13:601  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+12/03/2024 13:36:13:662  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+12/03/2024 13:36:13:725  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:SetTechDiffPrompt | Framework | SetTechDiffPrompt |  |  | undefined
+12/03/2024 13:36:13:788  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:TechnicalDifficulties | Framework | TechnicalDifficulties |  |  | undefined
+12/03/2024 13:36:13:850  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:SFDynamicTransfer | Framework | SFDynamicTransfer |  |  | undefined
+12/03/2024 13:36:13:913  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:Transfer-Begin | Framework | Transfer-Begin |  |  | undefined
+12/03/2024 13:36:13:976  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:Transfer-checkVbselfserve | Framework | Transfer-checkVbselfserve |  |  | undefined
+12/03/2024 13:36:14:038  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:Transfer-getTransferVDN | Framework | Transfer-getTransferVDN |  |  | undefined
+12/03/2024 13:36:14:100  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:Transfer-Error | Framework | Transfer-Error |  |  | undefined
+12/03/2024 13:36:14:161  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+12/03/2024 13:36:14:223  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+12/03/2024 13:36:14:286  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:Disconnect | Framework | Disconnect |  |  | undefined
+12/03/2024 13:36:14:347  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+12/03/2024 13:36:14:410  INFO - Node Entry | session id:sess9367543 | QatarIVR_UAT_New:Exit | Framework | Exit |  | ^^0^0 | undefined
+12/03/2024 13:36:14:410  INFO - Application Exit | session id:sess9367543 | QatarIVR_UAT_New:Exit | Framework | Application Exiting |  |  | undefined
+12/03/2024 13:37:11:349  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:Start | Framework | Start |  |  | 
+12/03/2024 13:37:11:452  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+12/03/2024 13:37:11:547  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+12/03/2024 13:37:11:609  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:SetTechDiffPrompt | Framework | SetTechDiffPrompt |  |  | undefined
+12/03/2024 13:37:11:671  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:TechnicalDifficulties | Framework | TechnicalDifficulties |  |  | undefined
+12/03/2024 13:37:11:734  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:SFDynamicTransfer | Framework | SFDynamicTransfer |  |  | undefined
+12/03/2024 13:37:11:795  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:Transfer-Begin | Framework | Transfer-Begin |  |  | undefined
+12/03/2024 13:37:11:857  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:Transfer-checkVbselfserve | Framework | Transfer-checkVbselfserve |  |  | undefined
+12/03/2024 13:37:11:919  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:Transfer-getTransferVDN | Framework | Transfer-getTransferVDN |  |  | undefined
+12/03/2024 13:37:11:981  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:Transfer-Error | Framework | Transfer-Error |  |  | undefined
+12/03/2024 13:37:12:043  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+12/03/2024 13:37:12:105  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+12/03/2024 13:37:12:168  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:Disconnect | Framework | Disconnect |  |  | undefined
+12/03/2024 13:37:12:230  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+12/03/2024 13:37:12:291  INFO - Node Entry | session id:sess5511604 | QatarIVR_UAT_New:Exit | Framework | Exit |  | ^^0^0 | undefined
+12/03/2024 13:37:12:292  INFO - Application Exit | session id:sess5511604 | QatarIVR_UAT_New:Exit | Framework | Application Exiting |  |  | undefined
+12/03/2024 13:37:45:690  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:Start | Framework | Start |  |  | 
+12/03/2024 13:37:45:769  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+12/03/2024 13:37:45:863  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+12/03/2024 13:37:45:925  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:SetTechDiffPrompt | Framework | SetTechDiffPrompt |  |  | undefined
+12/03/2024 13:37:45:987  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:TechnicalDifficulties | Framework | TechnicalDifficulties |  |  | undefined
+12/03/2024 13:37:46:049  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:SFDynamicTransfer | Framework | SFDynamicTransfer |  |  | undefined
+12/03/2024 13:37:46:111  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:Transfer-Begin | Framework | Transfer-Begin |  |  | undefined
+12/03/2024 13:37:46:174  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:Transfer-checkVbselfserve | Framework | Transfer-checkVbselfserve |  |  | undefined
+12/03/2024 13:37:46:235  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:Transfer-getTransferVDN | Framework | Transfer-getTransferVDN |  |  | undefined
+12/03/2024 13:37:46:297  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:Transfer-Error | Framework | Transfer-Error |  |  | undefined
+12/03/2024 13:37:46:359  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+12/03/2024 13:37:46:420  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+12/03/2024 13:37:46:482  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:Disconnect | Framework | Disconnect |  |  | undefined
+12/03/2024 13:37:46:543  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+12/03/2024 13:37:46:605  INFO - Node Entry | session id:sess6232314 | QatarIVR_UAT_New:Exit | Framework | Exit |  | ^^0^0 | undefined
+12/03/2024 13:37:46:606  INFO - Application Exit | session id:sess6232314 | QatarIVR_UAT_New:Exit | Framework | Application Exiting |  |  | undefined
+12/03/2024 13:39:51:021  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:Start | Framework | Start |  |  | 
+12/03/2024 13:39:51:270  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+12/03/2024 13:39:51:562  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+12/03/2024 13:39:51:626  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:SetTechDiffPrompt | Framework | SetTechDiffPrompt |  |  | undefined
+12/03/2024 13:39:51:711  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:TechnicalDifficulties | Framework | TechnicalDifficulties |  |  | undefined
+12/03/2024 13:39:51:911  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:SFDynamicTransfer | Framework | SFDynamicTransfer |  |  | undefined
+12/03/2024 13:39:51:985  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:Transfer-Begin | Framework | Transfer-Begin |  |  | undefined
+12/03/2024 13:39:52:052  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:Transfer-checkVbselfserve | Framework | Transfer-checkVbselfserve |  |  | undefined
+12/03/2024 13:39:52:156  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:Transfer-getTransferVDN | Framework | Transfer-getTransferVDN |  |  | undefined
+12/03/2024 13:39:52:252  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:Transfer-Error | Framework | Transfer-Error |  |  | undefined
+12/03/2024 13:39:52:331  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+12/03/2024 13:39:52:408  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+12/03/2024 13:39:52:485  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:Disconnect | Framework | Disconnect |  |  | undefined
+12/03/2024 13:39:52:553  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+12/03/2024 13:39:52:641  INFO - Node Entry | session id:sess5287699 | QatarIVR_UAT_New:Exit | Framework | Exit |  | ^^0^0 | undefined
+12/03/2024 13:39:52:664  INFO - Application Exit | session id:sess5287699 | QatarIVR_UAT_New:Exit | Framework | Application Exiting |  |  | undefined

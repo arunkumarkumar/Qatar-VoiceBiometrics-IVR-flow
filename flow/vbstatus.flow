@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AppFlowDoc>
+    <ApplicationFlow nextObjectId="60" package="flow.subflow.vbstatus" version="5.0">
+        <FlowGraph>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.SubEntry" id="1" version="3.1">
+                <Property name="Name" value="Begin"/>
+                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.SubEntry" id="2" version="1.2">
+                    <ItemProperties/>
+                    <ChildItems>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.GoTo" id="3" version="1.2">
+                            <ItemProperties>
+                                <Property name="LinkedNodeID" value="47"/>
+                                <Property name="Name" value="Start"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                    </ChildItems>
+                </FlowItem>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.SubFlowRef" id="17" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="724"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="11"/>
+                <Property name="flowID" value="Verify"/>
+                <Property name="Name" value="Verify"/>
+                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.SubFlowRef" id="19" version="1.2">
+                    <ItemProperties/>
+                    <ChildItems>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.SubExitPoint" id="20" version="1.2">
+                            <ItemProperties>
+                                <Property name="LinkedNodeID" value="39"/>
+                                <Property name="Name" value="BAU"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.SubExitPoint" id="21" version="1.2">
+                            <ItemProperties>
+                                <Property name="LinkedNodeID" value="39"/>
+                                <Property name="Name" value="Transfer"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                    </ChildItems>
+                </FlowItem>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.Form" id="53" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="1133"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="160"/>
+                <Property name="Name" value="resettrans"/>
+                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Form" id="54" version="1.2">
+                    <ItemProperties/>
+                    <ChildItems>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.FlushPromptQueue" id="60" version="1.2">
+                            <ItemProperties/>
+                            <ChildItems/>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Property" id="59" version="1.2">
+                            <ItemProperties>
+                                <Property name="fetchaudiominimum" value="0s"/>
+                                <Property name="fetchaudio" value="Transitional"/>
+                                <Property name="fetchaudiodelay" value="5s"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Submit" id="56" version="1.2">
+                            <ItemProperties>
+                                <Property name="LinkedNodeID" value="22"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                    </ChildItems>
+                </FlowItem>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.SubReturn" id="22" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="1300"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="156"/>
+                <Property name="Name" value="exit"/>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.Data" id="39" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="931"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="160"/>
+                <Property name="Name" value="callmethod"/>
+                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Data" id="40" version="1.2">
+                    <ItemProperties/>
+                    <ChildItems>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.LocalVariables" id="41" version="1.2">
+                            <ItemProperties>
+                                <Property name="Name" value="LocalVariables"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Next" id="42" version="1.2">
+                            <ItemProperties>
+                                <Property name="LinkedNodeID" value="53"/>
+                                <Property name="Name" value="Default"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                    </ChildItems>
+                </FlowItem>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.Data" id="8" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="155"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="11"/>
+                <Property name="Name" value="PreData"/>
+                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Data" id="9" version="1.2">
+                    <ItemProperties/>
+                    <ChildItems>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.LocalVariables" id="10" version="1.2">
+                            <ItemProperties>
+                                <Property name="Name" value="LocalVariables"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Next" id="11" version="1.2">
+                            <ItemProperties>
+                                <Property name="LinkedNodeID" value="27"/>
+                                <Property name="Name" value="Default"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                    </ChildItems>
+                </FlowItem>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.Label" id="26" version="3.1">
+                <Property name="FlowNodeEditPart.Width" value="150"/>
+                <Property name="FlowNodeEditPart.WidgetX" value="352"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="188"/>
+                <Property name="FlowNodeEditPart.Height" value="103"/>
+                <Property name="Name" value="Loading values needed for processing VB from api response"/>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.Data" id="27" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="358"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="143"/>
+                <Property name="Name" value="CHECKVBSTATUS"/>
+                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Data" id="28" version="1.2">
+                    <ItemProperties/>
+                    <ChildItems>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.LocalVariables" id="29" version="1.2">
+                            <ItemProperties>
+                                <Property name="Name" value="LocalVariables"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.IfCondition" id="32" version="1.2">
+                            <ItemProperties>
+                                <Property name="Operator" value="EqualsIgnoreCase"/>
+                                <Property name="LeftOperandID" value="vbstatus"/>
+                                <Property name="RightConstOperand" value="EN"/>
+                            </ItemProperties>
+                            <ChildItems>
+                                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Next" id="33" version="1.2">
+                                    <ItemProperties>
+                                        <Property name="LinkedNodeID" value="17"/>
+                                        <Property name="Name" value="verify"/>
+                                    </ItemProperties>
+                                    <ChildItems/>
+                                </FlowItem>
+                            </ChildItems>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.ElseCondition" id="34" version="1.2">
+                            <ItemProperties/>
+                            <ChildItems>
+                                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Next" id="35" version="1.2">
+                                    <ItemProperties>
+                                        <Property name="LinkedNodeID" value="39"/>
+                                        <Property name="Name" value="NotVerify"/>
+                                    </ItemProperties>
+                                    <ChildItems/>
+                                </FlowItem>
+                            </ChildItems>
+                        </FlowItem>
+                    </ChildItems>
+                </FlowItem>
+            </FlowNode>
+            <FlowNode class="com.avaya.sce.callflow.internal.appflow.Form" id="47" version="3.1">
+                <Property name="FlowNodeEditPart.WidgetX" value="50"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="50"/>
+                <Property name="Name" value="trans"/>
+                <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Form" id="48" version="1.2">
+                    <ItemProperties/>
+                    <ChildItems>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Property" id="49" version="1.2">
+                            <ItemProperties>
+                                <Property name="fetchaudiominimum" value="2s"/>
+                                <Property name="fetchaudio" value="Transitional"/>
+                                <Property name="fetchaudiodelay" value="1s"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                        <FlowItem class="com.avaya.sce.callflow.internal.flowitem.Submit" id="50" version="1.2">
+                            <ItemProperties>
+                                <Property name="LinkedNodeID" value="8"/>
+                            </ItemProperties>
+                            <ChildItems/>
+                        </FlowItem>
+                    </ChildItems>
+                </FlowItem>
+            </FlowNode>
+            <NodeConnection id="36" version="1.2">
+                <SourceNode id="27"/>
+                <TargetNode id="17"/>
+                <Property name="Connection.SourceObjectID" value="33"/>
+                <Property name="Connection.TargetObjectID" value="17"/>
+            </NodeConnection>
+            <NodeConnection id="38" version="1.2">
+                <SourceNode id="8"/>
+                <TargetNode id="27"/>
+                <Property name="Connection.SourceObjectID" value="11"/>
+                <Property name="Connection.TargetObjectID" value="27"/>
+            </NodeConnection>
+            <NodeConnection id="43" version="1.2">
+                <SourceNode id="27"/>
+                <TargetNode id="39"/>
+                <Property name="Connection.SourceObjectID" value="35"/>
+                <Property name="Connection.TargetObjectID" value="39"/>
+            </NodeConnection>
+            <NodeConnection id="45" version="1.2">
+                <SourceNode id="17"/>
+                <TargetNode id="39"/>
+                <Property name="Connection.SourceObjectID" value="21"/>
+                <Property name="Connection.TargetObjectID" value="39"/>
+            </NodeConnection>
+            <NodeConnection id="46" version="1.2">
+                <SourceNode id="17"/>
+                <TargetNode id="39"/>
+                <Property name="Connection.SourceObjectID" value="20"/>
+                <Property name="Connection.TargetObjectID" value="39"/>
+            </NodeConnection>
+            <NodeConnection id="51" version="1.2">
+                <SourceNode id="1"/>
+                <TargetNode id="47"/>
+                <Property name="Connection.SourceObjectID" value="3"/>
+                <Property name="Connection.TargetObjectID" value="47"/>
+            </NodeConnection>
+            <NodeConnection id="52" version="1.2">
+                <SourceNode id="47"/>
+                <TargetNode id="8"/>
+                <Property name="Connection.SourceObjectID" value="50"/>
+                <Property name="Connection.TargetObjectID" value="8"/>
+            </NodeConnection>
+            <NodeConnection id="57" version="1.2">
+                <SourceNode id="39"/>
+                <TargetNode id="53"/>
+                <Property name="Connection.SourceObjectID" value="42"/>
+                <Property name="Connection.TargetObjectID" value="53"/>
+            </NodeConnection>
+            <NodeConnection id="58" version="1.2">
+                <SourceNode id="53"/>
+                <TargetNode id="22"/>
+                <Property name="Connection.SourceObjectID" value="56"/>
+                <Property name="Connection.TargetObjectID" value="22"/>
+            </NodeConnection>
+        </FlowGraph>
+        <ProjectEventTypes/>
+    </ApplicationFlow>
+</AppFlowDoc>

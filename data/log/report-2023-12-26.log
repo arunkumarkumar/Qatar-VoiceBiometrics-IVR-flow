@@ -1,0 +1,1014 @@
+26/12/2023 15:08:22:297  INFO - Node Entry | session id:sess4155390 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 15:08:22:504  INFO - Node Entry | session id:sess4155390 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 15:08:23:643  INFO - Node Entry | session id:sess4155390 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:08:23:706  INFO - Node Entry | session id:sess4155390 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 15:08:23:768  INFO - Node Entry | session id:sess4155390 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 15:08:23:830  INFO - Node Entry | session id:sess4155390 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:08:23:910  INFO - Node Entry | session id:sess4155390 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 15:08:23:973  INFO - Node Entry | session id:sess4155390 | QatarIVR:preEnroll-Begin | Framework | preEnroll-Begin |  |  | undefined
+26/12/2023 15:08:24:036  INFO - Node Entry | session id:sess4155390 | QatarIVR:preEnroll-preProcess | Framework | preEnroll-preProcess |  |  | undefined
+26/12/2023 15:08:24:100  INFO - Node Entry | session id:sess4155390 | QatarIVR:preEnroll-preAnnouncement | Framework | preEnroll-preAnnouncement |  |  | undefined
+26/12/2023 15:08:24:210  INFO - Node Entry | session id:sess4155390 | QatarIVR:preEnroll-enrollmenu | Framework | preEnroll-enrollmenu |  |  | undefined
+26/12/2023 15:08:38:223  INFO - Node Entry | session id:sess4155390 | QatarIVR:preEnroll-Enroll | Framework | preEnroll-Enroll | enrollmenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:08:38:276  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-Begin | Framework | Enrollment-Begin |  |  | undefined
+26/12/2023 15:08:38:329  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-preProcessor | Framework | Enrollment-preProcessor |  |  | undefined
+26/12/2023 15:08:38:382  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-consentAnnouncement | Framework | Enrollment-consentAnnouncement |  |  | undefined
+26/12/2023 15:08:38:450  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-consentMenu | Framework | Enrollment-consentMenu |  |  | undefined
+26/12/2023 15:08:43:830  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-CONSENTUPDATEIVRDB | Framework | Enrollment-CONSENTUPDATEIVRDB | consentMenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:08:43:881  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-startsession | Framework | Enrollment-startsession |  |  | undefined
+26/12/2023 15:08:43:933  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-deletespeakerid | Framework | Enrollment-deletespeakerid |  |  | undefined
+26/12/2023 15:08:43:985  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-deletevoiceprint | Framework | Enrollment-deletevoiceprint |  |  | undefined
+26/12/2023 15:08:44:038  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-preenrollannouncement | Framework | Enrollment-preenrollannouncement |  |  | undefined
+26/12/2023 15:08:44:114  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-enroll1 | Framework | Enrollment-enroll1 |  |  | undefined
+26/12/2023 15:08:44:179  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-enrollVoicePc | Framework | Enrollment-enrollVoicePc |  |  | undefined
+26/12/2023 15:09:03:045  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-enrollVB_1 | Framework | Enrollment-enrollVB_1 |  |  | undefined
+26/12/2023 15:09:03:388  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-UPDATE_QR_FAILURE | Framework | Enrollment-UPDATE_QR_FAILURE |  |  | undefined
+26/12/2023 15:09:03:452  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-setting_transfer_attributes | Framework | Enrollment-setting_transfer_attributes |  |  | undefined
+26/12/2023 15:09:03:515  INFO - Node Entry | session id:sess4155390 | QatarIVR:Enrollment-Transfer | Framework | Enrollment-Transfer |  |  | undefined
+26/12/2023 15:09:03:579  INFO - Node Entry | session id:sess4155390 | QatarIVR:preEnroll-transfer | Framework | preEnroll-transfer |  |  | undefined
+26/12/2023 15:09:03:642  INFO - Node Entry | session id:sess4155390 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:09:03:705  INFO - Node Entry | session id:sess4155390 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 15:09:03:768  INFO - Node Entry | session id:sess4155390 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 15:09:03:846  INFO - Node Entry | session id:sess4155390 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 15:09:03:909  INFO - Node Entry | session id:sess4155390 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 15:09:03:988  INFO - Node Entry | session id:sess4155390 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 15:09:03:993  INFO - Application Exit | session id:sess4155390 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 15:27:02:858  INFO - Node Entry | session id:sess6241374 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 15:27:02:936  INFO - Node Entry | session id:sess6241374 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 15:27:03:228  INFO - Node Entry | session id:sess6241374 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:27:03:280  INFO - Node Entry | session id:sess6241374 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 15:27:03:334  INFO - Node Entry | session id:sess6241374 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 15:27:03:392  INFO - Node Entry | session id:sess6241374 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:27:03:443  INFO - Node Entry | session id:sess6241374 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 15:27:03:494  INFO - Node Entry | session id:sess6241374 | QatarIVR:preEnroll-Begin | Framework | preEnroll-Begin |  |  | undefined
+26/12/2023 15:27:03:547  INFO - Node Entry | session id:sess6241374 | QatarIVR:preEnroll-preProcess | Framework | preEnroll-preProcess |  |  | undefined
+26/12/2023 15:27:03:607  INFO - Node Entry | session id:sess6241374 | QatarIVR:preEnroll-preAnnouncement | Framework | preEnroll-preAnnouncement |  |  | undefined
+26/12/2023 15:27:03:691  INFO - Node Entry | session id:sess6241374 | QatarIVR:preEnroll-enrollmenu | Framework | preEnroll-enrollmenu |  |  | undefined
+26/12/2023 15:27:07:419  INFO - Node Entry | session id:sess6241374 | QatarIVR:preEnroll-Enroll | Framework | preEnroll-Enroll | enrollmenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:27:07:470  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-Begin | Framework | Enrollment-Begin |  |  | undefined
+26/12/2023 15:27:07:522  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-preProcessor | Framework | Enrollment-preProcessor |  |  | undefined
+26/12/2023 15:27:07:575  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-consentAnnouncement | Framework | Enrollment-consentAnnouncement |  |  | undefined
+26/12/2023 15:27:07:639  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-consentMenu | Framework | Enrollment-consentMenu |  |  | undefined
+26/12/2023 15:27:11:329  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-CONSENTUPDATEIVRDB | Framework | Enrollment-CONSENTUPDATEIVRDB | consentMenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:27:11:382  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-startsession | Framework | Enrollment-startsession |  |  | undefined
+26/12/2023 15:27:11:435  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-deletespeakerid | Framework | Enrollment-deletespeakerid |  |  | undefined
+26/12/2023 15:27:11:488  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-deletevoiceprint | Framework | Enrollment-deletevoiceprint |  |  | undefined
+26/12/2023 15:27:11:540  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-preenrollannouncement | Framework | Enrollment-preenrollannouncement |  |  | undefined
+26/12/2023 15:27:11:601  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-enroll1 | Framework | Enrollment-enroll1 |  |  | undefined
+26/12/2023 15:27:11:658  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-enrollVoicePc | Framework | Enrollment-enrollVoicePc |  |  | undefined
+26/12/2023 15:27:28:229  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-enrollVB_1 | Framework | Enrollment-enrollVB_1 |  |  | undefined
+26/12/2023 15:27:28:319  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-UPDATE_QR_FAILURE | Framework | Enrollment-UPDATE_QR_FAILURE |  |  | undefined
+26/12/2023 15:27:28:381  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-setting_transfer_attributes | Framework | Enrollment-setting_transfer_attributes |  |  | undefined
+26/12/2023 15:27:28:443  INFO - Node Entry | session id:sess6241374 | QatarIVR:Enrollment-Transfer | Framework | Enrollment-Transfer |  |  | undefined
+26/12/2023 15:27:28:506  INFO - Node Entry | session id:sess6241374 | QatarIVR:preEnroll-transfer | Framework | preEnroll-transfer |  |  | undefined
+26/12/2023 15:27:28:568  INFO - Node Entry | session id:sess6241374 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:27:28:631  INFO - Node Entry | session id:sess6241374 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 15:27:28:692  INFO - Node Entry | session id:sess6241374 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 15:27:28:755  INFO - Node Entry | session id:sess6241374 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 15:27:28:817  INFO - Node Entry | session id:sess6241374 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 15:27:28:895  INFO - Node Entry | session id:sess6241374 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 15:27:28:897  INFO - Application Exit | session id:sess6241374 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 15:31:19:376  INFO - Node Entry | session id:sess5029326 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 15:31:19:534  INFO - Node Entry | session id:sess5029326 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 15:31:19:923  INFO - Node Entry | session id:sess5029326 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:31:19:979  INFO - Node Entry | session id:sess5029326 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 15:31:20:035  INFO - Node Entry | session id:sess5029326 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 15:31:20:096  INFO - Node Entry | session id:sess5029326 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:31:20:149  INFO - Node Entry | session id:sess5029326 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 15:31:20:204  INFO - Node Entry | session id:sess5029326 | QatarIVR:preEnroll-Begin | Framework | preEnroll-Begin |  |  | undefined
+26/12/2023 15:31:20:259  INFO - Node Entry | session id:sess5029326 | QatarIVR:preEnroll-preProcess | Framework | preEnroll-preProcess |  |  | undefined
+26/12/2023 15:31:20:320  INFO - Node Entry | session id:sess5029326 | QatarIVR:preEnroll-preAnnouncement | Framework | preEnroll-preAnnouncement |  |  | undefined
+26/12/2023 15:31:20:401  INFO - Node Entry | session id:sess5029326 | QatarIVR:preEnroll-enrollmenu | Framework | preEnroll-enrollmenu |  |  | undefined
+26/12/2023 15:31:24:156  INFO - Node Entry | session id:sess5029326 | QatarIVR:preEnroll-Enroll | Framework | preEnroll-Enroll | enrollmenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:31:24:208  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-Begin | Framework | Enrollment-Begin |  |  | undefined
+26/12/2023 15:31:24:260  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-preProcessor | Framework | Enrollment-preProcessor |  |  | undefined
+26/12/2023 15:31:24:314  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-consentAnnouncement | Framework | Enrollment-consentAnnouncement |  |  | undefined
+26/12/2023 15:31:24:383  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-consentMenu | Framework | Enrollment-consentMenu |  |  | undefined
+26/12/2023 15:31:28:099  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-CONSENTUPDATEIVRDB | Framework | Enrollment-CONSENTUPDATEIVRDB | consentMenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:31:28:152  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-startsession | Framework | Enrollment-startsession |  |  | undefined
+26/12/2023 15:31:28:203  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-deletespeakerid | Framework | Enrollment-deletespeakerid |  |  | undefined
+26/12/2023 15:31:28:257  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-deletevoiceprint | Framework | Enrollment-deletevoiceprint |  |  | undefined
+26/12/2023 15:31:28:309  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-preenrollannouncement | Framework | Enrollment-preenrollannouncement |  |  | undefined
+26/12/2023 15:31:28:374  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-enroll1 | Framework | Enrollment-enroll1 |  |  | undefined
+26/12/2023 15:31:28:450  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-enrollVoicePc | Framework | Enrollment-enrollVoicePc |  |  | undefined
+26/12/2023 15:31:45:016  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-enrollVB_1 | Framework | Enrollment-enrollVB_1 |  |  | undefined
+26/12/2023 15:31:45:362  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-UPDATE_QR_FAILURE | Framework | Enrollment-UPDATE_QR_FAILURE |  |  | undefined
+26/12/2023 15:31:45:425  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-setting_transfer_attributes | Framework | Enrollment-setting_transfer_attributes |  |  | undefined
+26/12/2023 15:31:45:492  INFO - Node Entry | session id:sess5029326 | QatarIVR:Enrollment-Transfer | Framework | Enrollment-Transfer |  |  | undefined
+26/12/2023 15:31:45:552  INFO - Node Entry | session id:sess5029326 | QatarIVR:preEnroll-transfer | Framework | preEnroll-transfer |  |  | undefined
+26/12/2023 15:31:45:615  INFO - Node Entry | session id:sess5029326 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:31:45:679  INFO - Node Entry | session id:sess5029326 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 15:31:45:741  INFO - Node Entry | session id:sess5029326 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 15:31:45:851  INFO - Node Entry | session id:sess5029326 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 15:31:45:914  INFO - Node Entry | session id:sess5029326 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 15:31:45:976  INFO - Node Entry | session id:sess5029326 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 15:31:45:978  INFO - Application Exit | session id:sess5029326 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 15:40:08:531  INFO - Node Entry | session id:sess3733346 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 15:40:08:617  INFO - Node Entry | session id:sess3733346 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 15:40:08:868  INFO - Node Entry | session id:sess3733346 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:40:08:919  INFO - Node Entry | session id:sess3733346 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 15:40:08:973  INFO - Node Entry | session id:sess3733346 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 15:40:09:031  INFO - Node Entry | session id:sess3733346 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:40:09:082  INFO - Node Entry | session id:sess3733346 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 15:40:09:134  INFO - Node Entry | session id:sess3733346 | QatarIVR:preEnroll-Begin | Framework | preEnroll-Begin |  |  | undefined
+26/12/2023 15:40:09:187  INFO - Node Entry | session id:sess3733346 | QatarIVR:preEnroll-preProcess | Framework | preEnroll-preProcess |  |  | undefined
+26/12/2023 15:40:09:246  INFO - Node Entry | session id:sess3733346 | QatarIVR:preEnroll-preAnnouncement | Framework | preEnroll-preAnnouncement |  |  | undefined
+26/12/2023 15:40:09:328  INFO - Node Entry | session id:sess3733346 | QatarIVR:preEnroll-enrollmenu | Framework | preEnroll-enrollmenu |  |  | undefined
+26/12/2023 15:40:13:049  INFO - Node Entry | session id:sess3733346 | QatarIVR:preEnroll-Enroll | Framework | preEnroll-Enroll | enrollmenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:40:13:101  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-Begin | Framework | Enrollment-Begin |  |  | undefined
+26/12/2023 15:40:13:154  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-preProcessor | Framework | Enrollment-preProcessor |  |  | undefined
+26/12/2023 15:40:13:206  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-consentAnnouncement | Framework | Enrollment-consentAnnouncement |  |  | undefined
+26/12/2023 15:40:13:267  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-consentMenu | Framework | Enrollment-consentMenu |  |  | undefined
+26/12/2023 15:40:16:989  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-CONSENTUPDATEIVRDB | Framework | Enrollment-CONSENTUPDATEIVRDB | consentMenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:40:17:043  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-startsession | Framework | Enrollment-startsession |  |  | undefined
+26/12/2023 15:40:17:096  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-deletespeakerid | Framework | Enrollment-deletespeakerid |  |  | undefined
+26/12/2023 15:40:17:148  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-deletevoiceprint | Framework | Enrollment-deletevoiceprint |  |  | undefined
+26/12/2023 15:40:17:202  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-preenrollannouncement | Framework | Enrollment-preenrollannouncement |  |  | undefined
+26/12/2023 15:40:17:276  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-enroll1 | Framework | Enrollment-enroll1 |  |  | undefined
+26/12/2023 15:40:17:338  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-enrollVoicePc | Framework | Enrollment-enrollVoicePc |  |  | undefined
+26/12/2023 15:40:34:035  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-enrollVB_1 | Framework | Enrollment-enrollVB_1 |  |  | undefined
+26/12/2023 15:40:34:127  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-UPDATE_QR_FAILURE | Framework | Enrollment-UPDATE_QR_FAILURE |  |  | undefined
+26/12/2023 15:40:34:189  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-setting_transfer_attributes | Framework | Enrollment-setting_transfer_attributes |  |  | undefined
+26/12/2023 15:40:34:251  INFO - Node Entry | session id:sess3733346 | QatarIVR:Enrollment-Transfer | Framework | Enrollment-Transfer |  |  | undefined
+26/12/2023 15:40:34:314  INFO - Node Entry | session id:sess3733346 | QatarIVR:preEnroll-transfer | Framework | preEnroll-transfer |  |  | undefined
+26/12/2023 15:40:34:377  INFO - Node Entry | session id:sess3733346 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:40:34:440  INFO - Node Entry | session id:sess3733346 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 15:40:34:502  INFO - Node Entry | session id:sess3733346 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 15:40:34:565  INFO - Node Entry | session id:sess3733346 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 15:40:34:628  INFO - Node Entry | session id:sess3733346 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 15:40:34:691  INFO - Node Entry | session id:sess3733346 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 15:40:34:693  INFO - Application Exit | session id:sess3733346 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 15:42:01:468  INFO - Node Entry | session id:sess3170356 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 15:42:01:542  INFO - Node Entry | session id:sess3170356 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 15:42:01:796  INFO - Node Entry | session id:sess3170356 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:42:01:850  INFO - Node Entry | session id:sess3170356 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 15:42:01:904  INFO - Node Entry | session id:sess3170356 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 15:42:01:958  INFO - Node Entry | session id:sess3170356 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:42:02:010  INFO - Node Entry | session id:sess3170356 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 15:42:02:063  INFO - Node Entry | session id:sess3170356 | QatarIVR:preEnroll-Begin | Framework | preEnroll-Begin |  |  | undefined
+26/12/2023 15:42:02:115  INFO - Node Entry | session id:sess3170356 | QatarIVR:preEnroll-preProcess | Framework | preEnroll-preProcess |  |  | undefined
+26/12/2023 15:42:02:175  INFO - Node Entry | session id:sess3170356 | QatarIVR:preEnroll-preAnnouncement | Framework | preEnroll-preAnnouncement |  |  | undefined
+26/12/2023 15:42:02:244  INFO - Node Entry | session id:sess3170356 | QatarIVR:preEnroll-enrollmenu | Framework | preEnroll-enrollmenu |  |  | undefined
+26/12/2023 15:42:05:964  INFO - Node Entry | session id:sess3170356 | QatarIVR:preEnroll-Enroll | Framework | preEnroll-Enroll | enrollmenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:42:06:015  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-Begin | Framework | Enrollment-Begin |  |  | undefined
+26/12/2023 15:42:06:066  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-preProcessor | Framework | Enrollment-preProcessor |  |  | undefined
+26/12/2023 15:42:06:119  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-consentAnnouncement | Framework | Enrollment-consentAnnouncement |  |  | undefined
+26/12/2023 15:42:06:181  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-consentMenu | Framework | Enrollment-consentMenu |  |  | undefined
+26/12/2023 15:42:09:874  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-CONSENTUPDATEIVRDB | Framework | Enrollment-CONSENTUPDATEIVRDB | consentMenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:42:09:927  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-startsession | Framework | Enrollment-startsession |  |  | undefined
+26/12/2023 15:42:09:979  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-deletespeakerid | Framework | Enrollment-deletespeakerid |  |  | undefined
+26/12/2023 15:42:10:032  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-deletevoiceprint | Framework | Enrollment-deletevoiceprint |  |  | undefined
+26/12/2023 15:42:10:085  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-preenrollannouncement | Framework | Enrollment-preenrollannouncement |  |  | undefined
+26/12/2023 15:42:10:148  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-enroll1 | Framework | Enrollment-enroll1 |  |  | undefined
+26/12/2023 15:42:10:211  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-enrollVoicePc | Framework | Enrollment-enrollVoicePc |  |  | undefined
+26/12/2023 15:42:26:370  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-enrollVB_1 | Framework | Enrollment-enrollVB_1 |  |  | undefined
+26/12/2023 15:42:26:683  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-UPDATE_QR_FAILURE | Framework | Enrollment-UPDATE_QR_FAILURE |  |  | undefined
+26/12/2023 15:42:26:746  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-setting_transfer_attributes | Framework | Enrollment-setting_transfer_attributes |  |  | undefined
+26/12/2023 15:42:26:808  INFO - Node Entry | session id:sess3170356 | QatarIVR:Enrollment-Transfer | Framework | Enrollment-Transfer |  |  | undefined
+26/12/2023 15:42:26:871  INFO - Node Entry | session id:sess3170356 | QatarIVR:preEnroll-transfer | Framework | preEnroll-transfer |  |  | undefined
+26/12/2023 15:42:26:933  INFO - Node Entry | session id:sess3170356 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:42:26:996  INFO - Node Entry | session id:sess3170356 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 15:42:27:058  INFO - Node Entry | session id:sess3170356 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 15:42:27:120  INFO - Node Entry | session id:sess3170356 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 15:42:27:182  INFO - Node Entry | session id:sess3170356 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 15:42:27:245  INFO - Node Entry | session id:sess3170356 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 15:42:27:248  INFO - Application Exit | session id:sess3170356 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 15:43:59:609  INFO - Node Entry | session id:sess2878113 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 15:43:59:682  INFO - Node Entry | session id:sess2878113 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 15:43:59:896  INFO - Node Entry | session id:sess2878113 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:43:59:949  INFO - Node Entry | session id:sess2878113 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 15:44:00:004  INFO - Node Entry | session id:sess2878113 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 15:44:00:060  INFO - Node Entry | session id:sess2878113 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:44:00:114  INFO - Node Entry | session id:sess2878113 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 15:44:00:168  INFO - Node Entry | session id:sess2878113 | QatarIVR:preEnroll-Begin | Framework | preEnroll-Begin |  |  | undefined
+26/12/2023 15:44:00:219  INFO - Node Entry | session id:sess2878113 | QatarIVR:preEnroll-preProcess | Framework | preEnroll-preProcess |  |  | undefined
+26/12/2023 15:44:00:273  INFO - Node Entry | session id:sess2878113 | QatarIVR:preEnroll-preAnnouncement | Framework | preEnroll-preAnnouncement |  |  | undefined
+26/12/2023 15:44:00:340  INFO - Node Entry | session id:sess2878113 | QatarIVR:preEnroll-enrollmenu | Framework | preEnroll-enrollmenu |  |  | undefined
+26/12/2023 15:44:06:112  INFO - Node Entry | session id:sess2878113 | QatarIVR:preEnroll-Enroll | Framework | preEnroll-Enroll | enrollmenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:44:06:164  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-Begin | Framework | Enrollment-Begin |  |  | undefined
+26/12/2023 15:44:06:218  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-preProcessor | Framework | Enrollment-preProcessor |  |  | undefined
+26/12/2023 15:44:06:271  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-consentAnnouncement | Framework | Enrollment-consentAnnouncement |  |  | undefined
+26/12/2023 15:44:06:332  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-consentMenu | Framework | Enrollment-consentMenu |  |  | undefined
+26/12/2023 15:44:10:058  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-CONSENTUPDATEIVRDB | Framework | Enrollment-CONSENTUPDATEIVRDB | consentMenu___utterance | 1^0.949999988079071^0^0 | undefined
+26/12/2023 15:44:10:111  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-startsession | Framework | Enrollment-startsession |  |  | undefined
+26/12/2023 15:44:10:165  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-deletespeakerid | Framework | Enrollment-deletespeakerid |  |  | undefined
+26/12/2023 15:44:10:218  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-deletevoiceprint | Framework | Enrollment-deletevoiceprint |  |  | undefined
+26/12/2023 15:44:10:270  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-preenrollannouncement | Framework | Enrollment-preenrollannouncement |  |  | undefined
+26/12/2023 15:44:10:333  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-enroll1 | Framework | Enrollment-enroll1 |  |  | undefined
+26/12/2023 15:44:10:393  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-enrollVoicePc | Framework | Enrollment-enrollVoicePc |  |  | undefined
+26/12/2023 15:44:27:683  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-enrollVB_1 | Framework | Enrollment-enrollVB_1 |  |  | undefined
+26/12/2023 15:44:27:918  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-UPDATE_QR_FAILURE | Framework | Enrollment-UPDATE_QR_FAILURE |  |  | undefined
+26/12/2023 15:44:27:981  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-setting_transfer_attributes | Framework | Enrollment-setting_transfer_attributes |  |  | undefined
+26/12/2023 15:44:28:043  INFO - Node Entry | session id:sess2878113 | QatarIVR:Enrollment-Transfer | Framework | Enrollment-Transfer |  |  | undefined
+26/12/2023 15:44:28:107  INFO - Node Entry | session id:sess2878113 | QatarIVR:preEnroll-transfer | Framework | preEnroll-transfer |  |  | undefined
+26/12/2023 15:44:28:169  INFO - Node Entry | session id:sess2878113 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:44:28:232  INFO - Node Entry | session id:sess2878113 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 15:44:28:295  INFO - Node Entry | session id:sess2878113 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 15:44:28:357  INFO - Node Entry | session id:sess2878113 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 15:44:28:419  INFO - Node Entry | session id:sess2878113 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 15:44:28:482  INFO - Node Entry | session id:sess2878113 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 15:44:28:486  INFO - Application Exit | session id:sess2878113 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 15:54:59:755  INFO - Node Entry | session id:sess8688596 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 15:54:59:840  INFO - Node Entry | session id:sess8688596 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 15:55:00:056  INFO - Node Entry | session id:sess8688596 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:55:00:109  INFO - Node Entry | session id:sess8688596 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 15:55:00:164  INFO - Node Entry | session id:sess8688596 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 15:55:00:220  INFO - Node Entry | session id:sess8688596 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:55:00:273  INFO - Node Entry | session id:sess8688596 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 15:55:00:326  INFO - Node Entry | session id:sess8688596 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 15:55:00:378  INFO - Node Entry | session id:sess8688596 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 15:55:00:430  INFO - Node Entry | session id:sess8688596 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 15:55:00:485  INFO - Node Entry | session id:sess8688596 | QatarIVR:connectback-contextNotAvailableAnnouncement | Framework | connectback-contextNotAvailableAnnouncement |  |  | undefined
+26/12/2023 15:55:00:565  INFO - Node Entry | session id:sess8688596 | QatarIVR:connectback-settingTransferAttributes | Framework | connectback-settingTransferAttributes |  |  | undefined
+26/12/2023 15:55:00:617  INFO - Node Entry | session id:sess8688596 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 15:55:00:670  INFO - Node Entry | session id:sess8688596 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:55:00:724  INFO - Node Entry | session id:sess8688596 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 15:55:00:779  INFO - Node Entry | session id:sess8688596 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 15:55:00:837  INFO - Node Entry | session id:sess8688596 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 15:55:00:889  INFO - Node Entry | session id:sess8688596 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 15:55:24:110  INFO - Node Entry | session id:sess3295274 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 15:55:24:284  INFO - Node Entry | session id:sess3295274 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 15:55:24:771  INFO - Node Entry | session id:sess3295274 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:55:24:829  INFO - Node Entry | session id:sess3295274 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 15:55:24:885  INFO - Node Entry | session id:sess3295274 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 15:55:24:947  INFO - Node Entry | session id:sess3295274 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:55:25:003  INFO - Node Entry | session id:sess3295274 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 15:55:25:054  INFO - Node Entry | session id:sess3295274 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 15:55:25:109  INFO - Node Entry | session id:sess3295274 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 15:55:25:161  INFO - Node Entry | session id:sess3295274 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 15:55:25:223  INFO - Node Entry | session id:sess3295274 | QatarIVR:connectback-contextNotAvailableAnnouncement | Framework | connectback-contextNotAvailableAnnouncement |  |  | undefined
+26/12/2023 15:55:25:306  INFO - Node Entry | session id:sess3295274 | QatarIVR:connectback-settingTransferAttributes | Framework | connectback-settingTransferAttributes |  |  | undefined
+26/12/2023 15:55:25:362  INFO - Node Entry | session id:sess3295274 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 15:55:25:417  INFO - Node Entry | session id:sess3295274 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:55:25:471  INFO - Node Entry | session id:sess3295274 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 15:55:25:523  INFO - Node Entry | session id:sess3295274 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 15:55:25:605  INFO - Node Entry | session id:sess3295274 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 15:55:25:658  INFO - Node Entry | session id:sess3295274 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 15:55:30:292  INFO - Node Entry | session id:sess3295274 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 15:55:30:294  INFO - Application Exit | session id:sess3295274 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 15:57:01:352  INFO - Node Entry | session id:sess1811537 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 15:57:01:434  INFO - Node Entry | session id:sess1811537 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 15:57:01:692  INFO - Node Entry | session id:sess1811537 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:57:01:746  INFO - Node Entry | session id:sess1811537 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 15:57:01:800  INFO - Node Entry | session id:sess1811537 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 15:57:01:858  INFO - Node Entry | session id:sess1811537 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:57:01:911  INFO - Node Entry | session id:sess1811537 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 15:57:01:963  INFO - Node Entry | session id:sess1811537 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 15:57:02:014  INFO - Node Entry | session id:sess1811537 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 15:57:02:066  INFO - Node Entry | session id:sess1811537 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 15:57:02:123  INFO - Node Entry | session id:sess1811537 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 15:57:02:190  INFO - Node Entry | session id:sess1811537 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 15:57:02:247  INFO - Node Entry | session id:sess1811537 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 15:57:02:298  INFO - Node Entry | session id:sess1811537 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 15:57:02:350  INFO - Node Entry | session id:sess1811537 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 15:57:02:402  INFO - Node Entry | session id:sess1811537 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 15:57:02:455  INFO - Node Entry | session id:sess1811537 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 15:57:02:513  INFO - Node Entry | session id:sess1811537 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 15:57:02:566  INFO - Node Entry | session id:sess1811537 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 15:57:02:629  INFO - Node Entry | session id:sess1811537 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 15:57:02:631  INFO - Application Exit | session id:sess1811537 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:04:57:080  INFO - Node Entry | session id:sess3352780 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:04:57:216  INFO - Node Entry | session id:sess3352780 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:04:57:636  INFO - Node Entry | session id:sess3352780 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:04:57:689  INFO - Node Entry | session id:sess3352780 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:04:57:745  INFO - Node Entry | session id:sess3352780 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:04:57:805  INFO - Node Entry | session id:sess3352780 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:04:57:858  INFO - Node Entry | session id:sess3352780 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:04:57:913  INFO - Node Entry | session id:sess3352780 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:04:57:966  INFO - Node Entry | session id:sess3352780 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:04:58:022  INFO - Node Entry | session id:sess3352780 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:04:58:091  INFO - Node Entry | session id:sess3352780 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:04:58:148  INFO - Node Entry | session id:sess3352780 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:04:58:207  INFO - Node Entry | session id:sess3352780 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:04:58:265  INFO - Node Entry | session id:sess3352780 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:04:58:322  INFO - Node Entry | session id:sess3352780 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:04:58:378  INFO - Node Entry | session id:sess3352780 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:04:58:436  INFO - Node Entry | session id:sess3352780 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:04:58:505  INFO - Node Entry | session id:sess3352780 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:04:58:560  INFO - Node Entry | session id:sess3352780 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:04:58:631  INFO - Node Entry | session id:sess3352780 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:04:58:635  INFO - Application Exit | session id:sess3352780 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:05:08:430  INFO - Node Entry | session id:sess7424097 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:05:08:523  INFO - Node Entry | session id:sess7424097 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:05:08:767  INFO - Node Entry | session id:sess7424097 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:05:08:820  INFO - Node Entry | session id:sess7424097 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:05:08:874  INFO - Node Entry | session id:sess7424097 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:05:08:944  INFO - Node Entry | session id:sess7424097 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:05:08:997  INFO - Node Entry | session id:sess7424097 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:05:09:049  INFO - Node Entry | session id:sess7424097 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:05:09:102  INFO - Node Entry | session id:sess7424097 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:05:09:154  INFO - Node Entry | session id:sess7424097 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:05:09:207  INFO - Node Entry | session id:sess7424097 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:05:09:264  INFO - Node Entry | session id:sess7424097 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:05:09:317  INFO - Node Entry | session id:sess7424097 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:05:09:372  INFO - Node Entry | session id:sess7424097 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:05:09:424  INFO - Node Entry | session id:sess7424097 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:05:09:477  INFO - Node Entry | session id:sess7424097 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:05:09:531  INFO - Node Entry | session id:sess7424097 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:05:09:593  INFO - Node Entry | session id:sess7424097 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:05:09:646  INFO - Node Entry | session id:sess7424097 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:05:09:718  INFO - Node Entry | session id:sess7424097 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:05:09:720  INFO - Application Exit | session id:sess7424097 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:15:36:171  INFO - Node Entry | session id:sess9671997 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:15:36:320  INFO - Node Entry | session id:sess9671997 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:15:36:724  INFO - Node Entry | session id:sess9671997 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:15:36:778  INFO - Node Entry | session id:sess9671997 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:15:36:834  INFO - Node Entry | session id:sess9671997 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:15:36:900  INFO - Node Entry | session id:sess9671997 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:15:36:954  INFO - Node Entry | session id:sess9671997 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:15:37:008  INFO - Node Entry | session id:sess9671997 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:15:37:062  INFO - Node Entry | session id:sess9671997 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:15:37:117  INFO - Node Entry | session id:sess9671997 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:15:37:186  INFO - Node Entry | session id:sess9671997 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:15:37:241  INFO - Node Entry | session id:sess9671997 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:15:37:299  INFO - Node Entry | session id:sess9671997 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:15:37:352  INFO - Node Entry | session id:sess9671997 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:15:37:410  INFO - Node Entry | session id:sess9671997 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:15:37:464  INFO - Node Entry | session id:sess9671997 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:15:37:612  INFO - Node Entry | session id:sess9671997 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:15:37:672  INFO - Node Entry | session id:sess9671997 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:15:37:725  INFO - Node Entry | session id:sess9671997 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:15:37:795  INFO - Node Entry | session id:sess9671997 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:15:37:797  INFO - Application Exit | session id:sess9671997 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:15:48:249  INFO - Node Entry | session id:sess2974573 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:15:48:379  INFO - Node Entry | session id:sess2974573 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:15:48:704  INFO - Node Entry | session id:sess2974573 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:15:48:757  INFO - Node Entry | session id:sess2974573 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:15:48:809  INFO - Node Entry | session id:sess2974573 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:15:48:866  INFO - Node Entry | session id:sess2974573 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:15:48:918  INFO - Node Entry | session id:sess2974573 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:15:48:970  INFO - Node Entry | session id:sess2974573 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:15:49:022  INFO - Node Entry | session id:sess2974573 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:15:49:075  INFO - Node Entry | session id:sess2974573 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:15:49:130  INFO - Node Entry | session id:sess2974573 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:15:49:184  INFO - Node Entry | session id:sess2974573 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:15:49:238  INFO - Node Entry | session id:sess2974573 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:15:49:293  INFO - Node Entry | session id:sess2974573 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:15:49:347  INFO - Node Entry | session id:sess2974573 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:15:49:400  INFO - Node Entry | session id:sess2974573 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:15:49:454  INFO - Node Entry | session id:sess2974573 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:15:49:511  INFO - Node Entry | session id:sess2974573 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:15:49:562  INFO - Node Entry | session id:sess2974573 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:15:49:621  INFO - Node Entry | session id:sess2974573 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:15:49:622  INFO - Application Exit | session id:sess2974573 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:24:19:027  INFO - Node Entry | session id:sess4073058 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:24:19:169  INFO - Node Entry | session id:sess4073058 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:24:19:521  INFO - Node Entry | session id:sess4073058 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:24:19:574  INFO - Node Entry | session id:sess4073058 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:24:19:628  INFO - Node Entry | session id:sess4073058 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:24:19:682  INFO - Node Entry | session id:sess4073058 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:24:19:734  INFO - Node Entry | session id:sess4073058 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:24:19:786  INFO - Node Entry | session id:sess4073058 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:24:19:845  INFO - Node Entry | session id:sess4073058 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:24:19:908  INFO - Node Entry | session id:sess4073058 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:24:19:985  INFO - Node Entry | session id:sess4073058 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:24:20:047  INFO - Node Entry | session id:sess4073058 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:24:20:109  INFO - Node Entry | session id:sess4073058 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:24:20:172  INFO - Node Entry | session id:sess4073058 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:24:20:232  INFO - Node Entry | session id:sess4073058 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:24:20:295  INFO - Node Entry | session id:sess4073058 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:24:20:359  INFO - Node Entry | session id:sess4073058 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:24:20:438  INFO - Node Entry | session id:sess4073058 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:24:20:499  INFO - Node Entry | session id:sess4073058 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:24:20:563  INFO - Node Entry | session id:sess4073058 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:24:20:564  INFO - Application Exit | session id:sess4073058 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:25:57:526  INFO - Node Entry | session id:sess2988734 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:25:57:620  INFO - Node Entry | session id:sess2988734 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:25:57:779  INFO - Node Entry | session id:sess2988734 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:25:57:831  INFO - Node Entry | session id:sess2988734 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:25:57:883  INFO - Node Entry | session id:sess2988734 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:25:57:942  INFO - Node Entry | session id:sess2988734 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:25:57:995  INFO - Node Entry | session id:sess2988734 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:25:58:048  INFO - Node Entry | session id:sess2988734 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:25:58:101  INFO - Node Entry | session id:sess2988734 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:25:58:154  INFO - Node Entry | session id:sess2988734 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:25:58:207  INFO - Node Entry | session id:sess2988734 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:25:58:261  INFO - Node Entry | session id:sess2988734 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:25:58:314  INFO - Node Entry | session id:sess2988734 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:25:58:367  INFO - Node Entry | session id:sess2988734 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:25:58:419  INFO - Node Entry | session id:sess2988734 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:25:58:472  INFO - Node Entry | session id:sess2988734 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:25:58:525  INFO - Node Entry | session id:sess2988734 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:25:58:587  INFO - Node Entry | session id:sess2988734 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:25:58:641  INFO - Node Entry | session id:sess2988734 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:25:58:712  INFO - Node Entry | session id:sess2988734 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:25:58:713  INFO - Application Exit | session id:sess2988734 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:31:17:766  INFO - Node Entry | session id:sess2322660 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:31:17:904  INFO - Node Entry | session id:sess2322660 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:31:18:442  INFO - Node Entry | session id:sess2322660 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:31:18:498  INFO - Node Entry | session id:sess2322660 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:31:18:561  INFO - Node Entry | session id:sess2322660 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:31:18:619  INFO - Node Entry | session id:sess2322660 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:31:18:674  INFO - Node Entry | session id:sess2322660 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:31:18:728  INFO - Node Entry | session id:sess2322660 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:31:18:784  INFO - Node Entry | session id:sess2322660 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:31:18:839  INFO - Node Entry | session id:sess2322660 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:31:18:914  INFO - Node Entry | session id:sess2322660 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:31:18:977  INFO - Node Entry | session id:sess2322660 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:31:19:033  INFO - Node Entry | session id:sess2322660 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:31:19:088  INFO - Node Entry | session id:sess2322660 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:31:19:144  INFO - Node Entry | session id:sess2322660 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:31:19:200  INFO - Node Entry | session id:sess2322660 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:31:19:255  INFO - Node Entry | session id:sess2322660 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:31:19:328  INFO - Node Entry | session id:sess2322660 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:31:19:384  INFO - Node Entry | session id:sess2322660 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:31:19:466  INFO - Node Entry | session id:sess2322660 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:31:19:469  INFO - Application Exit | session id:sess2322660 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:32:33:199  INFO - Node Entry | session id:sess6201713 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:32:33:284  INFO - Node Entry | session id:sess6201713 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:32:33:505  INFO - Node Entry | session id:sess6201713 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:32:33:557  INFO - Node Entry | session id:sess6201713 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:32:33:609  INFO - Node Entry | session id:sess6201713 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:32:33:673  INFO - Node Entry | session id:sess6201713 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:32:33:727  INFO - Node Entry | session id:sess6201713 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:32:33:780  INFO - Node Entry | session id:sess6201713 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:32:33:832  INFO - Node Entry | session id:sess6201713 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:32:33:884  INFO - Node Entry | session id:sess6201713 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:32:33:937  INFO - Node Entry | session id:sess6201713 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:32:33:989  INFO - Node Entry | session id:sess6201713 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:32:34:042  INFO - Node Entry | session id:sess6201713 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:32:34:100  INFO - Node Entry | session id:sess6201713 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:32:35:058  INFO - Node Entry | session id:sess6201713 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:32:35:109  INFO - Node Entry | session id:sess6201713 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:32:35:160  INFO - Node Entry | session id:sess6201713 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:32:35:213  INFO - Node Entry | session id:sess6201713 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:32:35:266  INFO - Node Entry | session id:sess6201713 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:32:35:325  INFO - Node Entry | session id:sess6201713 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:32:35:378  INFO - Node Entry | session id:sess6201713 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:32:35:453  INFO - Node Entry | session id:sess6201713 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:32:35:455  INFO - Application Exit | session id:sess6201713 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:34:55:597  INFO - Node Entry | session id:sess4112941 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:34:55:732  INFO - Node Entry | session id:sess4112941 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:34:56:159  INFO - Node Entry | session id:sess4112941 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:34:56:212  INFO - Node Entry | session id:sess4112941 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:34:56:268  INFO - Node Entry | session id:sess4112941 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:34:56:328  INFO - Node Entry | session id:sess4112941 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:34:56:382  INFO - Node Entry | session id:sess4112941 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:34:56:437  INFO - Node Entry | session id:sess4112941 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:34:56:492  INFO - Node Entry | session id:sess4112941 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:34:56:545  INFO - Node Entry | session id:sess4112941 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:34:56:618  INFO - Node Entry | session id:sess4112941 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:34:56:683  INFO - Node Entry | session id:sess4112941 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:34:56:737  INFO - Node Entry | session id:sess4112941 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:34:56:798  INFO - Node Entry | session id:sess4112941 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:34:57:362  INFO - Node Entry | session id:sess4112941 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:34:57:416  INFO - Node Entry | session id:sess4112941 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:34:57:469  INFO - Node Entry | session id:sess4112941 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:34:57:522  INFO - Node Entry | session id:sess4112941 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:34:57:576  INFO - Node Entry | session id:sess4112941 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:34:57:643  INFO - Node Entry | session id:sess4112941 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:34:57:697  INFO - Node Entry | session id:sess4112941 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:34:57:793  INFO - Node Entry | session id:sess4112941 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:34:57:807  INFO - Application Exit | session id:sess4112941 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:37:59:730  INFO - Node Entry | session id:sess3159258 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:37:59:857  INFO - Node Entry | session id:sess3159258 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:38:00:143  INFO - Node Entry | session id:sess3159258 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:38:00:195  INFO - Node Entry | session id:sess3159258 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:38:00:254  INFO - Node Entry | session id:sess3159258 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:38:00:333  INFO - Node Entry | session id:sess3159258 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:38:00:398  INFO - Node Entry | session id:sess3159258 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:38:00:451  INFO - Node Entry | session id:sess3159258 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:38:00:505  INFO - Node Entry | session id:sess3159258 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:38:00:558  INFO - Node Entry | session id:sess3159258 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:38:00:629  INFO - Node Entry | session id:sess3159258 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:38:00:692  INFO - Node Entry | session id:sess3159258 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:38:00:747  INFO - Node Entry | session id:sess3159258 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:38:00:806  INFO - Node Entry | session id:sess3159258 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:38:01:889  INFO - Node Entry | session id:sess3159258 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:38:01:942  INFO - Node Entry | session id:sess3159258 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:38:01:996  INFO - Node Entry | session id:sess3159258 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:38:02:049  INFO - Node Entry | session id:sess3159258 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:38:02:105  INFO - Node Entry | session id:sess3159258 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:38:02:175  INFO - Node Entry | session id:sess3159258 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:38:02:229  INFO - Node Entry | session id:sess3159258 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:38:02:333  INFO - Node Entry | session id:sess3159258 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:38:02:336  INFO - Application Exit | session id:sess3159258 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:46:37:236  INFO - Node Entry | session id:sess3372997 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:46:37:325  INFO - Node Entry | session id:sess3372997 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:46:37:595  INFO - Node Entry | session id:sess3372997 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:46:37:647  INFO - Node Entry | session id:sess3372997 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:46:37:700  INFO - Node Entry | session id:sess3372997 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:46:37:767  INFO - Node Entry | session id:sess3372997 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:46:37:819  INFO - Node Entry | session id:sess3372997 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:46:37:872  INFO - Node Entry | session id:sess3372997 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:46:37:926  INFO - Node Entry | session id:sess3372997 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:46:37:978  INFO - Node Entry | session id:sess3372997 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:46:38:031  INFO - Node Entry | session id:sess3372997 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:46:38:085  INFO - Node Entry | session id:sess3372997 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:46:38:138  INFO - Node Entry | session id:sess3372997 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:46:38:194  INFO - Node Entry | session id:sess3372997 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:46:38:277  INFO - Node Entry | session id:sess3372997 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:46:38:330  INFO - Node Entry | session id:sess3372997 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:46:38:382  INFO - Node Entry | session id:sess3372997 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:46:38:434  INFO - Node Entry | session id:sess3372997 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:46:38:488  INFO - Node Entry | session id:sess3372997 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:46:38:549  INFO - Node Entry | session id:sess3372997 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:46:38:601  INFO - Node Entry | session id:sess3372997 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:46:38:684  INFO - Node Entry | session id:sess3372997 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:46:38:684  INFO - Application Exit | session id:sess3372997 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:48:03:246  INFO - Node Entry | session id:sess4639905 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:48:03:329  INFO - Node Entry | session id:sess4639905 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:48:03:734  INFO - Node Entry | session id:sess4639905 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:48:03:784  INFO - Node Entry | session id:sess4639905 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:48:03:835  INFO - Node Entry | session id:sess4639905 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:48:03:896  INFO - Node Entry | session id:sess4639905 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:48:03:949  INFO - Node Entry | session id:sess4639905 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:48:04:000  INFO - Node Entry | session id:sess4639905 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:48:04:052  INFO - Node Entry | session id:sess4639905 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:48:04:104  INFO - Node Entry | session id:sess4639905 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:48:04:155  INFO - Node Entry | session id:sess4639905 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:48:04:210  INFO - Node Entry | session id:sess4639905 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:48:04:263  INFO - Node Entry | session id:sess4639905 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:48:04:317  INFO - Node Entry | session id:sess4639905 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:48:04:398  INFO - Node Entry | session id:sess4639905 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:48:04:451  INFO - Node Entry | session id:sess4639905 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:48:04:503  INFO - Node Entry | session id:sess4639905 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:48:04:556  INFO - Node Entry | session id:sess4639905 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:48:04:608  INFO - Node Entry | session id:sess4639905 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:48:04:666  INFO - Node Entry | session id:sess4639905 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:48:04:720  INFO - Node Entry | session id:sess4639905 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:48:04:791  INFO - Node Entry | session id:sess4639905 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:48:04:792  INFO - Application Exit | session id:sess4639905 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:49:06:654  INFO - Node Entry | session id:sess514605 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:49:06:879  INFO - Node Entry | session id:sess514605 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:49:07:259  INFO - Node Entry | session id:sess514605 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:49:07:312  INFO - Node Entry | session id:sess514605 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:49:07:368  INFO - Node Entry | session id:sess514605 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:49:07:426  INFO - Node Entry | session id:sess514605 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:49:07:479  INFO - Node Entry | session id:sess514605 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:49:07:530  INFO - Node Entry | session id:sess514605 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:49:07:584  INFO - Node Entry | session id:sess514605 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:49:07:635  INFO - Node Entry | session id:sess514605 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:49:07:698  INFO - Node Entry | session id:sess514605 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:49:07:763  INFO - Node Entry | session id:sess514605 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:49:07:819  INFO - Node Entry | session id:sess514605 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:49:07:881  INFO - Node Entry | session id:sess514605 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:49:08:998  INFO - Node Entry | session id:sess514605 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:49:09:052  INFO - Node Entry | session id:sess514605 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:49:09:106  INFO - Node Entry | session id:sess514605 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:49:09:160  INFO - Node Entry | session id:sess514605 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:49:09:212  INFO - Node Entry | session id:sess514605 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:49:09:290  INFO - Node Entry | session id:sess514605 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:49:09:343  INFO - Node Entry | session id:sess514605 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:49:09:403  INFO - Node Entry | session id:sess514605 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:49:09:405  INFO - Application Exit | session id:sess514605 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:50:41:439  INFO - Node Entry | session id:sess3749644 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:50:41:740  INFO - Node Entry | session id:sess3749644 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:50:42:128  INFO - Node Entry | session id:sess3749644 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:50:42:184  INFO - Node Entry | session id:sess3749644 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:50:42:244  INFO - Node Entry | session id:sess3749644 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:50:42:317  INFO - Node Entry | session id:sess3749644 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:50:42:372  INFO - Node Entry | session id:sess3749644 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:50:42:426  INFO - Node Entry | session id:sess3749644 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:50:42:482  INFO - Node Entry | session id:sess3749644 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:50:42:536  INFO - Node Entry | session id:sess3749644 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:50:42:608  INFO - Node Entry | session id:sess3749644 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:50:42:674  INFO - Node Entry | session id:sess3749644 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:50:42:730  INFO - Node Entry | session id:sess3749644 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:50:42:792  INFO - Node Entry | session id:sess3749644 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:50:43:660  INFO - Node Entry | session id:sess3749644 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:50:43:714  INFO - Node Entry | session id:sess3749644 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:50:43:767  INFO - Node Entry | session id:sess3749644 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:50:43:820  INFO - Node Entry | session id:sess3749644 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:50:43:875  INFO - Node Entry | session id:sess3749644 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:50:43:937  INFO - Node Entry | session id:sess3749644 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:50:43:991  INFO - Node Entry | session id:sess3749644 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:50:44:065  INFO - Node Entry | session id:sess3749644 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:50:44:070  INFO - Application Exit | session id:sess3749644 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:54:08:800  INFO - Node Entry | session id:sess713708 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:54:09:053  INFO - Node Entry | session id:sess713708 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:54:09:627  INFO - Node Entry | session id:sess713708 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:54:09:680  INFO - Node Entry | session id:sess713708 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:54:09:744  INFO - Node Entry | session id:sess713708 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:54:09:817  INFO - Node Entry | session id:sess713708 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:54:09:872  INFO - Node Entry | session id:sess713708 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:54:09:926  INFO - Node Entry | session id:sess713708 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:54:09:982  INFO - Node Entry | session id:sess713708 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:54:10:038  INFO - Node Entry | session id:sess713708 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:54:10:117  INFO - Node Entry | session id:sess713708 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:54:10:180  INFO - Node Entry | session id:sess713708 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:54:10:235  INFO - Node Entry | session id:sess713708 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:54:10:295  INFO - Node Entry | session id:sess713708 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:54:11:177  INFO - Node Entry | session id:sess713708 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:54:11:231  INFO - Node Entry | session id:sess713708 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:54:11:288  INFO - Node Entry | session id:sess713708 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:54:11:339  INFO - Node Entry | session id:sess713708 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:54:11:391  INFO - Node Entry | session id:sess713708 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:54:11:454  INFO - Node Entry | session id:sess713708 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:54:11:507  INFO - Node Entry | session id:sess713708 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:54:11:585  INFO - Node Entry | session id:sess713708 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:54:11:587  INFO - Application Exit | session id:sess713708 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:55:49:896  INFO - Node Entry | session id:sess7040617 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:55:49:995  INFO - Node Entry | session id:sess7040617 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:55:50:251  INFO - Node Entry | session id:sess7040617 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:55:50:301  INFO - Node Entry | session id:sess7040617 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:55:50:354  INFO - Node Entry | session id:sess7040617 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:55:50:426  INFO - Node Entry | session id:sess7040617 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:55:50:478  INFO - Node Entry | session id:sess7040617 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:55:50:531  INFO - Node Entry | session id:sess7040617 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:55:50:584  INFO - Node Entry | session id:sess7040617 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:55:50:638  INFO - Node Entry | session id:sess7040617 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:55:50:691  INFO - Node Entry | session id:sess7040617 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:55:50:748  INFO - Node Entry | session id:sess7040617 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:55:50:802  INFO - Node Entry | session id:sess7040617 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:55:50:858  INFO - Node Entry | session id:sess7040617 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:55:50:940  INFO - Node Entry | session id:sess7040617 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:55:50:993  INFO - Node Entry | session id:sess7040617 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:55:51:048  INFO - Node Entry | session id:sess7040617 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:55:51:101  INFO - Node Entry | session id:sess7040617 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:55:51:154  INFO - Node Entry | session id:sess7040617 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:55:51:219  INFO - Node Entry | session id:sess7040617 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:55:51:273  INFO - Node Entry | session id:sess7040617 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:55:51:338  INFO - Node Entry | session id:sess7040617 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:55:51:338  INFO - Application Exit | session id:sess7040617 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:57:06:543  INFO - Node Entry | session id:sess4829237 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:57:06:640  INFO - Node Entry | session id:sess4829237 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:57:06:889  INFO - Node Entry | session id:sess4829237 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:57:06:941  INFO - Node Entry | session id:sess4829237 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:57:06:995  INFO - Node Entry | session id:sess4829237 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:57:07:059  INFO - Node Entry | session id:sess4829237 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:57:07:111  INFO - Node Entry | session id:sess4829237 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:57:07:164  INFO - Node Entry | session id:sess4829237 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:57:07:218  INFO - Node Entry | session id:sess4829237 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:57:07:271  INFO - Node Entry | session id:sess4829237 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:57:07:324  INFO - Node Entry | session id:sess4829237 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:57:07:378  INFO - Node Entry | session id:sess4829237 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:57:07:432  INFO - Node Entry | session id:sess4829237 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:57:07:487  INFO - Node Entry | session id:sess4829237 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:57:07:572  INFO - Node Entry | session id:sess4829237 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:57:07:625  INFO - Node Entry | session id:sess4829237 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:57:07:678  INFO - Node Entry | session id:sess4829237 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:57:07:731  INFO - Node Entry | session id:sess4829237 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:57:07:784  INFO - Node Entry | session id:sess4829237 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:57:07:847  INFO - Node Entry | session id:sess4829237 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:57:07:899  INFO - Node Entry | session id:sess4829237 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:57:07:983  INFO - Node Entry | session id:sess4829237 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:57:07:984  INFO - Application Exit | session id:sess4829237 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 16:59:41:483  INFO - Node Entry | session id:sess2505444 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 16:59:41:640  INFO - Node Entry | session id:sess2505444 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 16:59:42:112  INFO - Node Entry | session id:sess2505444 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:59:42:166  INFO - Node Entry | session id:sess2505444 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 16:59:42:227  INFO - Node Entry | session id:sess2505444 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 16:59:42:293  INFO - Node Entry | session id:sess2505444 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:59:42:346  INFO - Node Entry | session id:sess2505444 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 16:59:42:400  INFO - Node Entry | session id:sess2505444 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 16:59:42:455  INFO - Node Entry | session id:sess2505444 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 16:59:42:509  INFO - Node Entry | session id:sess2505444 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 16:59:42:580  INFO - Node Entry | session id:sess2505444 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 16:59:42:643  INFO - Node Entry | session id:sess2505444 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 16:59:42:696  INFO - Node Entry | session id:sess2505444 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 16:59:42:750  INFO - Node Entry | session id:sess2505444 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 16:59:43:059  INFO - Node Entry | session id:sess2505444 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 16:59:43:111  INFO - Node Entry | session id:sess2505444 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 16:59:43:164  INFO - Node Entry | session id:sess2505444 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 16:59:43:217  INFO - Node Entry | session id:sess2505444 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 16:59:43:273  INFO - Node Entry | session id:sess2505444 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 16:59:43:351  INFO - Node Entry | session id:sess2505444 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 16:59:43:405  INFO - Node Entry | session id:sess2505444 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 16:59:43:484  INFO - Node Entry | session id:sess2505444 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 16:59:43:489  INFO - Application Exit | session id:sess2505444 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:00:23:888  INFO - Node Entry | session id:sess2060817 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:00:24:038  INFO - Node Entry | session id:sess2060817 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:00:24:395  INFO - Node Entry | session id:sess2060817 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:00:24:449  INFO - Node Entry | session id:sess2060817 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:00:24:511  INFO - Node Entry | session id:sess2060817 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:00:24:580  INFO - Node Entry | session id:sess2060817 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:00:24:635  INFO - Node Entry | session id:sess2060817 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:00:24:690  INFO - Node Entry | session id:sess2060817 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:00:24:743  INFO - Node Entry | session id:sess2060817 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:00:24:799  INFO - Node Entry | session id:sess2060817 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:00:24:861  INFO - Node Entry | session id:sess2060817 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:00:24:915  INFO - Node Entry | session id:sess2060817 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:00:24:968  INFO - Node Entry | session id:sess2060817 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:00:25:026  INFO - Node Entry | session id:sess2060817 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:00:25:645  INFO - Node Entry | session id:sess2060817 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:00:25:696  INFO - Node Entry | session id:sess2060817 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:00:25:749  INFO - Node Entry | session id:sess2060817 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:00:25:800  INFO - Node Entry | session id:sess2060817 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:00:25:853  INFO - Node Entry | session id:sess2060817 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:00:25:910  INFO - Node Entry | session id:sess2060817 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:00:25:962  INFO - Node Entry | session id:sess2060817 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:00:26:020  INFO - Node Entry | session id:sess2060817 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:00:26:021  INFO - Application Exit | session id:sess2060817 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:01:21:168  INFO - Node Entry | session id:sess4798711 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:01:21:335  INFO - Node Entry | session id:sess4798711 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:01:21:737  INFO - Node Entry | session id:sess4798711 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:01:21:791  INFO - Node Entry | session id:sess4798711 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:01:21:845  INFO - Node Entry | session id:sess4798711 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:01:21:903  INFO - Node Entry | session id:sess4798711 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:01:21:956  INFO - Node Entry | session id:sess4798711 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:01:22:009  INFO - Node Entry | session id:sess4798711 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:01:22:061  INFO - Node Entry | session id:sess4798711 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:01:22:112  INFO - Node Entry | session id:sess4798711 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:01:22:172  INFO - Node Entry | session id:sess4798711 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:01:22:228  INFO - Node Entry | session id:sess4798711 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:01:22:287  INFO - Node Entry | session id:sess4798711 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:01:22:347  INFO - Node Entry | session id:sess4798711 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:01:23:158  INFO - Node Entry | session id:sess4798711 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:01:23:209  INFO - Node Entry | session id:sess4798711 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:01:23:263  INFO - Node Entry | session id:sess4798711 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:01:23:316  INFO - Node Entry | session id:sess4798711 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:01:23:371  INFO - Node Entry | session id:sess4798711 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:01:23:441  INFO - Node Entry | session id:sess4798711 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:01:23:495  INFO - Node Entry | session id:sess4798711 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:01:23:560  INFO - Node Entry | session id:sess4798711 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:01:23:562  INFO - Application Exit | session id:sess4798711 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:02:27:782  INFO - Node Entry | session id:sess5946932 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:02:27:889  INFO - Node Entry | session id:sess5946932 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:02:28:230  INFO - Node Entry | session id:sess5946932 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:02:28:283  INFO - Node Entry | session id:sess5946932 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:02:28:338  INFO - Node Entry | session id:sess5946932 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:02:28:395  INFO - Node Entry | session id:sess5946932 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:02:28:447  INFO - Node Entry | session id:sess5946932 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:02:28:499  INFO - Node Entry | session id:sess5946932 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:02:28:552  INFO - Node Entry | session id:sess5946932 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:02:28:604  INFO - Node Entry | session id:sess5946932 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:02:28:661  INFO - Node Entry | session id:sess5946932 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:02:28:715  INFO - Node Entry | session id:sess5946932 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:02:28:766  INFO - Node Entry | session id:sess5946932 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:02:28:819  INFO - Node Entry | session id:sess5946932 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:02:29:122  INFO - Node Entry | session id:sess5946932 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:02:29:174  INFO - Node Entry | session id:sess5946932 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:02:29:226  INFO - Node Entry | session id:sess5946932 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:02:29:282  INFO - Node Entry | session id:sess5946932 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:02:29:339  INFO - Node Entry | session id:sess5946932 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:02:29:416  INFO - Node Entry | session id:sess5946932 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:02:29:471  INFO - Node Entry | session id:sess5946932 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:02:29:554  INFO - Node Entry | session id:sess5946932 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:02:29:556  INFO - Application Exit | session id:sess5946932 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:08:29:015  INFO - Node Entry | session id:sess537195 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:08:29:106  INFO - Node Entry | session id:sess537195 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:08:29:284  INFO - Node Entry | session id:sess537195 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:08:29:336  INFO - Node Entry | session id:sess537195 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:08:29:389  INFO - Node Entry | session id:sess537195 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:08:29:448  INFO - Node Entry | session id:sess537195 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:08:29:502  INFO - Node Entry | session id:sess537195 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:08:29:556  INFO - Node Entry | session id:sess537195 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:08:29:609  INFO - Node Entry | session id:sess537195 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:08:29:663  INFO - Node Entry | session id:sess537195 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:08:29:715  INFO - Node Entry | session id:sess537195 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:08:29:769  INFO - Node Entry | session id:sess537195 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:08:29:822  INFO - Node Entry | session id:sess537195 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:08:29:878  INFO - Node Entry | session id:sess537195 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:08:29:996  INFO - Node Entry | session id:sess537195 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:08:30:047  INFO - Node Entry | session id:sess537195 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:08:30:100  INFO - Node Entry | session id:sess537195 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:08:30:154  INFO - Node Entry | session id:sess537195 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:08:30:205  INFO - Node Entry | session id:sess537195 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:08:30:259  INFO - Node Entry | session id:sess537195 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:08:30:313  INFO - Node Entry | session id:sess537195 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:08:30:384  INFO - Node Entry | session id:sess537195 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:08:30:385  INFO - Application Exit | session id:sess537195 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:11:17:765  INFO - Node Entry | session id:sess7805104 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:11:17:862  INFO - Node Entry | session id:sess7805104 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:11:18:065  INFO - Node Entry | session id:sess7805104 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:11:18:119  INFO - Node Entry | session id:sess7805104 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:11:18:174  INFO - Node Entry | session id:sess7805104 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:11:18:230  INFO - Node Entry | session id:sess7805104 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:11:18:283  INFO - Node Entry | session id:sess7805104 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:11:18:334  INFO - Node Entry | session id:sess7805104 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:11:18:385  INFO - Node Entry | session id:sess7805104 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:11:18:437  INFO - Node Entry | session id:sess7805104 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:11:18:495  INFO - Node Entry | session id:sess7805104 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:11:18:559  INFO - Node Entry | session id:sess7805104 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:11:18:615  INFO - Node Entry | session id:sess7805104 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:11:18:669  INFO - Node Entry | session id:sess7805104 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:11:18:949  INFO - Node Entry | session id:sess7805104 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:11:19:001  INFO - Node Entry | session id:sess7805104 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:11:19:052  INFO - Node Entry | session id:sess7805104 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:11:19:107  INFO - Node Entry | session id:sess7805104 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:11:19:160  INFO - Node Entry | session id:sess7805104 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:11:19:236  INFO - Node Entry | session id:sess7805104 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:11:19:291  INFO - Node Entry | session id:sess7805104 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:11:19:368  INFO - Node Entry | session id:sess7805104 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:11:19:369  INFO - Application Exit | session id:sess7805104 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:14:18:679  INFO - Node Entry | session id:sess9030390 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:14:18:778  INFO - Node Entry | session id:sess9030390 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:14:18:971  INFO - Node Entry | session id:sess9030390 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:14:19:025  INFO - Node Entry | session id:sess9030390 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:14:19:081  INFO - Node Entry | session id:sess9030390 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:14:19:144  INFO - Node Entry | session id:sess9030390 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:14:19:197  INFO - Node Entry | session id:sess9030390 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:14:19:252  INFO - Node Entry | session id:sess9030390 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:14:19:304  INFO - Node Entry | session id:sess9030390 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:14:19:358  INFO - Node Entry | session id:sess9030390 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:14:19:420  INFO - Node Entry | session id:sess9030390 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:14:19:482  INFO - Node Entry | session id:sess9030390 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:14:19:537  INFO - Node Entry | session id:sess9030390 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:14:19:597  INFO - Node Entry | session id:sess9030390 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:14:19:920  INFO - Node Entry | session id:sess9030390 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:14:19:971  INFO - Node Entry | session id:sess9030390 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:14:20:023  INFO - Node Entry | session id:sess9030390 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:14:20:075  INFO - Node Entry | session id:sess9030390 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:14:20:129  INFO - Node Entry | session id:sess9030390 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:14:20:208  INFO - Node Entry | session id:sess9030390 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:14:20:270  INFO - Node Entry | session id:sess9030390 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:14:20:348  INFO - Node Entry | session id:sess9030390 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:14:20:349  INFO - Application Exit | session id:sess9030390 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:18:38:237  INFO - Node Entry | session id:sess4215652 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:18:38:298  INFO - Node Entry | session id:sess4215652 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:18:38:493  INFO - Node Entry | session id:sess4215652 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:18:38:545  INFO - Node Entry | session id:sess4215652 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:18:38:596  INFO - Node Entry | session id:sess4215652 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:18:38:654  INFO - Node Entry | session id:sess4215652 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:18:38:705  INFO - Node Entry | session id:sess4215652 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:18:38:756  INFO - Node Entry | session id:sess4215652 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:18:38:809  INFO - Node Entry | session id:sess4215652 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:18:38:860  INFO - Node Entry | session id:sess4215652 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:18:38:913  INFO - Node Entry | session id:sess4215652 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:18:38:965  INFO - Node Entry | session id:sess4215652 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:18:39:018  INFO - Node Entry | session id:sess4215652 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:18:39:071  INFO - Node Entry | session id:sess4215652 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:18:39:135  INFO - Node Entry | session id:sess4215652 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:18:39:186  INFO - Node Entry | session id:sess4215652 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:18:39:236  INFO - Node Entry | session id:sess4215652 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:18:39:288  INFO - Node Entry | session id:sess4215652 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:18:39:339  INFO - Node Entry | session id:sess4215652 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:18:39:396  INFO - Node Entry | session id:sess4215652 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:18:39:450  INFO - Node Entry | session id:sess4215652 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:18:39:515  INFO - Node Entry | session id:sess4215652 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:18:39:515  INFO - Application Exit | session id:sess4215652 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:19:27:082  INFO - Node Entry | session id:sess6292890 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:19:27:186  INFO - Node Entry | session id:sess6292890 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:19:27:469  INFO - Node Entry | session id:sess6292890 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:19:27:522  INFO - Node Entry | session id:sess6292890 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:19:27:585  INFO - Node Entry | session id:sess6292890 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:19:27:649  INFO - Node Entry | session id:sess6292890 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:19:27:705  INFO - Node Entry | session id:sess6292890 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:19:27:761  INFO - Node Entry | session id:sess6292890 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:19:27:814  INFO - Node Entry | session id:sess6292890 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:19:27:869  INFO - Node Entry | session id:sess6292890 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:19:27:940  INFO - Node Entry | session id:sess6292890 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:19:27:994  INFO - Node Entry | session id:sess6292890 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:19:28:047  INFO - Node Entry | session id:sess6292890 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:19:28:103  INFO - Node Entry | session id:sess6292890 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:19:28:390  INFO - Node Entry | session id:sess6292890 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:19:28:443  INFO - Node Entry | session id:sess6292890 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:19:28:497  INFO - Node Entry | session id:sess6292890 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:19:28:552  INFO - Node Entry | session id:sess6292890 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:19:28:607  INFO - Node Entry | session id:sess6292890 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:19:28:683  INFO - Node Entry | session id:sess6292890 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:19:28:736  INFO - Node Entry | session id:sess6292890 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:19:28:814  INFO - Node Entry | session id:sess6292890 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:19:28:815  INFO - Application Exit | session id:sess6292890 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:22:30:622  INFO - Node Entry | session id:sess7650592 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:22:30:725  INFO - Node Entry | session id:sess7650592 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:22:30:953  INFO - Node Entry | session id:sess7650592 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:22:31:007  INFO - Node Entry | session id:sess7650592 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:22:31:062  INFO - Node Entry | session id:sess7650592 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:22:31:122  INFO - Node Entry | session id:sess7650592 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:22:31:175  INFO - Node Entry | session id:sess7650592 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:22:31:228  INFO - Node Entry | session id:sess7650592 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:22:31:281  INFO - Node Entry | session id:sess7650592 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:22:31:334  INFO - Node Entry | session id:sess7650592 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:22:31:402  INFO - Node Entry | session id:sess7650592 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:22:31:461  INFO - Node Entry | session id:sess7650592 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:22:31:517  INFO - Node Entry | session id:sess7650592 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:22:31:577  INFO - Node Entry | session id:sess7650592 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:22:31:914  INFO - Node Entry | session id:sess7650592 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:22:31:967  INFO - Node Entry | session id:sess7650592 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:22:32:022  INFO - Node Entry | session id:sess7650592 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:22:32:079  INFO - Node Entry | session id:sess7650592 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:22:32:135  INFO - Node Entry | session id:sess7650592 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:22:32:206  INFO - Node Entry | session id:sess7650592 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:22:32:263  INFO - Node Entry | session id:sess7650592 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:22:32:338  INFO - Node Entry | session id:sess7650592 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:22:32:339  INFO - Application Exit | session id:sess7650592 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:28:24:933  INFO - Node Entry | session id:sess2690198 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:28:25:005  INFO - Node Entry | session id:sess2690198 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:28:25:200  INFO - Node Entry | session id:sess2690198 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:28:25:253  INFO - Node Entry | session id:sess2690198 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:28:25:310  INFO - Node Entry | session id:sess2690198 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:28:25:370  INFO - Node Entry | session id:sess2690198 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:28:25:423  INFO - Node Entry | session id:sess2690198 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:28:25:480  INFO - Node Entry | session id:sess2690198 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:28:25:534  INFO - Node Entry | session id:sess2690198 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:28:25:589  INFO - Node Entry | session id:sess2690198 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:28:25:661  INFO - Node Entry | session id:sess2690198 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:28:25:718  INFO - Node Entry | session id:sess2690198 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:28:25:770  INFO - Node Entry | session id:sess2690198 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:28:25:825  INFO - Node Entry | session id:sess2690198 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:28:26:098  INFO - Node Entry | session id:sess2690198 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:28:26:150  INFO - Node Entry | session id:sess2690198 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:28:26:202  INFO - Node Entry | session id:sess2690198 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:28:26:253  INFO - Node Entry | session id:sess2690198 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:28:26:307  INFO - Node Entry | session id:sess2690198 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:28:26:365  INFO - Node Entry | session id:sess2690198 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:28:26:420  INFO - Node Entry | session id:sess2690198 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:28:26:490  INFO - Node Entry | session id:sess2690198 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:28:26:491  INFO - Application Exit | session id:sess2690198 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:31:27:267  INFO - Node Entry | session id:sess1849242 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:31:27:340  INFO - Node Entry | session id:sess1849242 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:31:27:551  INFO - Node Entry | session id:sess1849242 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:31:27:605  INFO - Node Entry | session id:sess1849242 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:31:27:658  INFO - Node Entry | session id:sess1849242 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:31:27:712  INFO - Node Entry | session id:sess1849242 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:31:27:765  INFO - Node Entry | session id:sess1849242 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:31:27:819  INFO - Node Entry | session id:sess1849242 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:31:27:872  INFO - Node Entry | session id:sess1849242 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:31:27:925  INFO - Node Entry | session id:sess1849242 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:31:27:994  INFO - Node Entry | session id:sess1849242 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:31:28:057  INFO - Node Entry | session id:sess1849242 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:31:28:112  INFO - Node Entry | session id:sess1849242 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:31:28:170  INFO - Node Entry | session id:sess1849242 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:31:28:472  INFO - Node Entry | session id:sess1849242 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:31:28:524  INFO - Node Entry | session id:sess1849242 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:31:28:577  INFO - Node Entry | session id:sess1849242 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:31:28:631  INFO - Node Entry | session id:sess1849242 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:31:28:684  INFO - Node Entry | session id:sess1849242 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:31:28:751  INFO - Node Entry | session id:sess1849242 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:31:28:803  INFO - Node Entry | session id:sess1849242 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:31:28:861  INFO - Node Entry | session id:sess1849242 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:31:28:862  INFO - Application Exit | session id:sess1849242 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:34:11:497  INFO - Node Entry | session id:sess7069517 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:34:11:592  INFO - Node Entry | session id:sess7069517 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:34:11:808  INFO - Node Entry | session id:sess7069517 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:34:11:861  INFO - Node Entry | session id:sess7069517 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:34:11:916  INFO - Node Entry | session id:sess7069517 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:34:11:975  INFO - Node Entry | session id:sess7069517 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:34:12:028  INFO - Node Entry | session id:sess7069517 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:34:12:082  INFO - Node Entry | session id:sess7069517 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:34:12:136  INFO - Node Entry | session id:sess7069517 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:34:12:189  INFO - Node Entry | session id:sess7069517 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:34:12:262  INFO - Node Entry | session id:sess7069517 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:34:12:335  INFO - Node Entry | session id:sess7069517 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:34:12:387  INFO - Node Entry | session id:sess7069517 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:34:12:439  INFO - Node Entry | session id:sess7069517 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:34:12:721  INFO - Node Entry | session id:sess7069517 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:34:12:773  INFO - Node Entry | session id:sess7069517 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:34:12:826  INFO - Node Entry | session id:sess7069517 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:34:12:879  INFO - Node Entry | session id:sess7069517 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:34:12:933  INFO - Node Entry | session id:sess7069517 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:34:13:001  INFO - Node Entry | session id:sess7069517 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:34:13:054  INFO - Node Entry | session id:sess7069517 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:34:13:130  INFO - Node Entry | session id:sess7069517 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:34:13:131  INFO - Application Exit | session id:sess7069517 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:35:47:281  INFO - Node Entry | session id:sess6042095 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:35:47:381  INFO - Node Entry | session id:sess6042095 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:35:47:567  INFO - Node Entry | session id:sess6042095 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:35:47:620  INFO - Node Entry | session id:sess6042095 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:35:47:675  INFO - Node Entry | session id:sess6042095 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:35:47:733  INFO - Node Entry | session id:sess6042095 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:35:47:785  INFO - Node Entry | session id:sess6042095 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:35:47:840  INFO - Node Entry | session id:sess6042095 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:35:47:893  INFO - Node Entry | session id:sess6042095 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:35:47:947  INFO - Node Entry | session id:sess6042095 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:35:48:018  INFO - Node Entry | session id:sess6042095 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:35:48:077  INFO - Node Entry | session id:sess6042095 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:35:48:130  INFO - Node Entry | session id:sess6042095 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:35:48:187  INFO - Node Entry | session id:sess6042095 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:35:48:444  INFO - Node Entry | session id:sess6042095 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:35:48:496  INFO - Node Entry | session id:sess6042095 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:35:48:548  INFO - Node Entry | session id:sess6042095 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:35:48:603  INFO - Node Entry | session id:sess6042095 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:35:48:656  INFO - Node Entry | session id:sess6042095 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:35:48:715  INFO - Node Entry | session id:sess6042095 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:35:48:768  INFO - Node Entry | session id:sess6042095 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:35:48:830  INFO - Node Entry | session id:sess6042095 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:35:48:832  INFO - Application Exit | session id:sess6042095 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:35:58:782  INFO - Node Entry | session id:sess2727091 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:35:58:863  INFO - Node Entry | session id:sess2727091 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:35:59:026  INFO - Node Entry | session id:sess2727091 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:35:59:077  INFO - Node Entry | session id:sess2727091 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:35:59:129  INFO - Node Entry | session id:sess2727091 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:35:59:186  INFO - Node Entry | session id:sess2727091 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:35:59:237  INFO - Node Entry | session id:sess2727091 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:35:59:288  INFO - Node Entry | session id:sess2727091 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:35:59:339  INFO - Node Entry | session id:sess2727091 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:35:59:391  INFO - Node Entry | session id:sess2727091 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:35:59:444  INFO - Node Entry | session id:sess2727091 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:35:59:498  INFO - Node Entry | session id:sess2727091 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:35:59:548  INFO - Node Entry | session id:sess2727091 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:35:59:599  INFO - Node Entry | session id:sess2727091 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:35:59:684  INFO - Node Entry | session id:sess2727091 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:35:59:734  INFO - Node Entry | session id:sess2727091 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:35:59:787  INFO - Node Entry | session id:sess2727091 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:35:59:838  INFO - Node Entry | session id:sess2727091 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:35:59:891  INFO - Node Entry | session id:sess2727091 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:35:59:948  INFO - Node Entry | session id:sess2727091 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:35:59:998  INFO - Node Entry | session id:sess2727091 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:36:00:059  INFO - Node Entry | session id:sess2727091 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:36:00:059  INFO - Application Exit | session id:sess2727091 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined
+26/12/2023 17:38:54:656  INFO - Node Entry | session id:sess4624517 | QatarIVR:Start | Framework | Start |  |  | 
+26/12/2023 17:38:54:769  INFO - Node Entry | session id:sess4624517 | QatarIVR:LoadInitValues | Framework | LoadInitValues |  |  | undefined
+26/12/2023 17:38:54:998  INFO - Node Entry | session id:sess4624517 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:38:55:052  INFO - Node Entry | session id:sess4624517 | QatarIVR:DynamicData | Framework | DynamicData |  |  | undefined
+26/12/2023 17:38:55:107  INFO - Node Entry | session id:sess4624517 | QatarIVR:SetFetchTimeout | Framework | SetFetchTimeout |  |  | undefined
+26/12/2023 17:38:55:163  INFO - Node Entry | session id:sess4624517 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:38:55:217  INFO - Node Entry | session id:sess4624517 | QatarIVR:SFConnectBack | Framework | SFConnectBack |  |  | undefined
+26/12/2023 17:38:55:272  INFO - Node Entry | session id:sess4624517 | QatarIVR:connectback-Begin | Framework | connectback-Begin |  |  | undefined
+26/12/2023 17:38:55:325  INFO - Node Entry | session id:sess4624517 | QatarIVR:connectback-preProcessor | Framework | connectback-preProcessor |  |  | undefined
+26/12/2023 17:38:55:380  INFO - Node Entry | session id:sess4624517 | QatarIVR:connectback-checkValues | Framework | connectback-checkValues |  |  | undefined
+26/12/2023 17:38:55:452  INFO - Node Entry | session id:sess4624517 | QatarIVR:connectback-getData | Framework | connectback-getData |  |  | undefined
+26/12/2023 17:38:55:514  INFO - Node Entry | session id:sess4624517 | QatarIVR:connectback-LoadVBConfigValuesFromHost | Framework | connectback-LoadVBConfigValuesFromHost |  |  | undefined
+26/12/2023 17:38:55:570  INFO - Node Entry | session id:sess4624517 | QatarIVR:connectback-HostAvailabilityCheck | Framework | connectback-HostAvailabilityCheck |  |  | undefined
+26/12/2023 17:38:55:630  INFO - Node Entry | session id:sess4624517 | QatarIVR:connectback-StartSession | Framework | connectback-StartSession |  |  | undefined
+26/12/2023 17:38:55:994  INFO - Node Entry | session id:sess4624517 | QatarIVR:connectback-setApplicatioDataUUID | Framework | connectback-setApplicatioDataUUID |  |  | undefined
+26/12/2023 17:38:56:047  INFO - Node Entry | session id:sess4624517 | QatarIVR:connectback-Tansfer | Framework | connectback-Tansfer |  |  | undefined
+26/12/2023 17:38:56:101  INFO - Node Entry | session id:sess4624517 | QatarIVR:DynamicFetchNode | Framework | DynamicFetchNode |  |  | undefined
+26/12/2023 17:38:56:153  INFO - Node Entry | session id:sess4624517 | QatarIVR:IsCallHistoryInserted | Framework | IsCallHistoryInserted |  |  | undefined
+26/12/2023 17:38:56:207  INFO - Node Entry | session id:sess4624517 | QatarIVR:InsertCallHistory | Framework | InsertCallHistory |  |  | undefined
+26/12/2023 17:38:56:264  INFO - Node Entry | session id:sess4624517 | QatarIVR:Disconnect | Framework | Disconnect |  |  | undefined
+26/12/2023 17:38:56:317  INFO - Node Entry | session id:sess4624517 | QatarIVR:CallDisconnect | Framework | CallDisconnect |  |  | undefined
+26/12/2023 17:38:56:374  INFO - Node Entry | session id:sess4624517 | QatarIVR:Exit | Framework | Exit |  | ^^0^0 | undefined
+26/12/2023 17:38:56:375  INFO - Application Exit | session id:sess4624517 | QatarIVR:Exit | Framework | Application Exiting |  |  | undefined

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="external" filename="phraseEng" version="1.0">
+    <phrase version="1.0">
+        <displayname>NOVOICE</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NOVOICE.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PASSPHRASE</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PASSPHRASE.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>VBPASS</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>VBPASS.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MAX_RETRY</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>MAX_RETRY.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>VB_NOTVALIDPHRASE</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>VB_NOTVALIDPHRASE.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>VB_ENROL_005</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>VB_ENROL_005.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>VB_VOICEPLAY</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>VB_VOICEPLAY.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RECORD_PRINT2</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RECORD_PRINT2.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>technicalError</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>technicalError.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SPEAKTOAGENT</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SPEAKTOAGENT.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>inConclusiveMaxRetries</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>inConclusiveMaxRetries.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>TO_OPT_OUT</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>TO_OPT_OUT.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>VB_DEREG_SUCC</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>VB_DEREG_SUCC.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>VB_UNBLOCK_SUCC</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>VB_UNBLOCK_SUCC.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>THREESAMPLES</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>THREESAMPLES.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>NO_INPUT_001</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NO_INPUT_001.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ANC_RETRY_02</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ANC_RETRY_02.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RECORD_PRINT1</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RECORD_PRINT1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>CONT_SER</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>CONT_SER.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ANC_RETRY_01</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ANC_RETRY_01.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>INVALID_INPUT_001</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>INVALID_INPUT_001.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MAX_RETRY_001</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>MAX_RETRY_001.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ANC_RETRY_03</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ANC_RETRY_03.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>VB_VOICENOTRECOG</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>VB_VOICENOTRECOG.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Press0</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Press0.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Press1</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Press1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Press2</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Press2.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>VB_ENROLLFAILURE</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>VB_ENROLLFAILURE.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>HOST_FAIL_001</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>HOST_FAIL_001.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ELSE</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ELSE.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>OPT_OUT_CONFIRM</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>OPT_OUT_CONFIRM.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MAX_RETRY_002</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>MAX_RETRY_002.wav</audiofile>
+    </phrase>
+</phraseset>
